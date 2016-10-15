@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>意见反馈_猎聘猎头网:LiePin.com</title>
+<!--#set var='compatible' value=''-->
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+<link rel="icon" href="https://concat.lietou-static.com/core/pc/revs/images/common/favicon_1c83d380.ico" type="image/x-icon">
+<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+
+
+<link href="../css/header_97dd5a04.css" rel="stylesheet" type="text/css">
+<link href="../css/public_e147c1ed.css" rel="stylesheet" type="text/css">
+<link href="../css/common_a3d43722.css" rel="stylesheet" type="text/css">
+<link href="../css/footer_fbdc3fc7.css" rel="stylesheet" type="text/css">
+<body>
+
+
+
+<header id="header-p-beta2">
+  <div class="header">
+    <div class="wrap">
+      <div class="logo">
+        <a href="https://www.liepin.com/" target="_blank"><img alt="猎聘网logo" class="pngfix" src="images/logo_e062b0a3.png" width="110" height="40"></a>
+      </div>
+      
+    </div>
+  </div>
+</header>
+
+<div id="feedback">
+  <em class="cnr cnr-l"></em><em class="cnr cnr-b"></em><em class="cnr cnr-r"></em>
+  <div class="box">
+    <h2>意见与反馈</h2>
+    <div class="intro">
+      <p>用户您好，请将您的意见、想法、建议或投诉内容告诉我们，以帮助猎聘网为全体用户提供更加优质的服务。我们将在两个工作日之内回复您的反馈，如您的问题比较紧急，请致电服务热线：400-6838-789。</p>
+    </div>
+    <form method="post" class="feedback-form" action="/user/savefeedback/" onsubmit="return false" enctype="multipart/form-data">
+      <h4>您的联系方式</h4>
+      <table>
+        <tbody><tr>
+          <td class="field">姓名：</td>
+          <td><input class="input-text" name="user_name" size="30" maxlength="50" placeholder="姓名或称谓，如：李先生" valitext="name=姓名&amp;isCN&amp;notEmpty&amp;between2_5" type="text"></td>
+        </tr>
+        <tr>
+          <td class="field">邮箱：</td>
+          <td><input class="input-text" name="wf_email" size="30" valitext="name=登录邮箱&amp;notEmpty&amp;lessThan50&amp;isEmail" placeholder="填写真实邮箱，便于我们和您联系" type="text"></td>
+        </tr>
+        <tr>
+          <td class="field">手机：</td>
+          <td><input class="input-text" name="wf_tel" size="30" placeholder="选填" type="text"></td>
+        </tr>
+      </tbody></table>
+      <h4>您的意见与反馈</h4>
+      <div class="content-field">
+        <textarea class="input-text" name="wf_context" placeholder="500字以内" valitext="name=反馈内容&amp;notEmpty&amp;lessThan500"></textarea>
+        <input name="referer" value="" type="hidden">
+      </div>
+      <div class="attachment">
+        <p>
+          如果需要图片来辅助说明，可以
+          <span class="uploader">
+            <a class="link-upload" href="javascript:;">上传图片</a>
+            <input id="upload-file" class="input-file" name="upload_file" type="file">
+          </span>
+          <span class="attach-ext">支持gif/jpg/png格式</span>
+        </p>
+      </div>
+      
+      <div class="very-cols clearfix">
+		  <label>验&nbsp;证&nbsp;码：</label>
+		  <input class="input-text userRand" name="rand" size="6" type="text">
+		  <img class="very-image" alt="验证码,看不清楚?请点击刷新验证码" src="css/a.jpg">
+		  <a class="link-refresh" href="javascript:;">换一张</a>
+	  </div>
+      
+      <div class="buttons">
+        <button type="submit" class="btn-ui submit btn-ui-blue35" style=" background:#06F"><span><strong>提交</strong></span></button>
+      </div>
+    </form>
+  </div>
+  <div class="box-footer"></div>
+</div>
+
+
+
+<footer id="footer-p-beta2">
+  <hr>
+  <div class="wrap">
+    <div class="copyright">
+      <div class="copy-side">
+        服务热线 (免长话费)<br><strong>400-6838-789</strong><br><small>工作日 9:00-19:00</small>
+      </div>
+      <div class="copy-main">
+        <div class="item">
+          <dl>
+            <dt>简介</dt>
+            <dd><a href="https://www.liepin.com/about/introduction.shtml" target="_blank" rel="nofollow">猎聘网简介</a></dd>
+            <dd><a href="https://www.liepin.com/about/productsandservices.shtml" target="_blank" rel="nofollow">产品服务</a></dd>
+            <dd><a href="https://www.liepin.com/about/innovation.shtml" target="_blank" rel="nofollow">创新优势</a></dd>
+            <dd><a href="https://www.liepin.com/about/weblink/" target="_blank" rel="nofollow">友情链接</a></dd>
+            <dd><a href="https://www.liepin.com/about/about_us.shtml" target="_blank" rel="nofollow">联系我们</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>帮助</dt>
+            <dd><a href="https://www.liepin.com/help/" target="_blank" rel="nofollow">经理人帮助</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/2/0" target="_blank" rel="nofollow">用户注册</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/3/0" target="_blank" rel="nofollow">关于您的简历</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/4/0" target="_blank" rel="nofollow">关于猎头</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/5/0" target="_blank" rel="nofollow">关于职位</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>共赢</dt>
+            <dd><a href="https://www.liepin.com/cooperation.shtml" target="_blank" rel="nofollow">网站合作</a></dd>
+            <dd><a href="https://www.liepin.com/user/agreement.shtml" target="_blank" rel="nofollow">用户协议</a></dd>
+            <dd><a href="https://www.liepin.com/sitemap.shtml" target="_blank">网站地图</a></dd>
+            <dd><a href="https://www.liepin.com/user/feedback/" target="_blank" rel="nofollow">意见反馈</a></dd>
+            <dd><a href="https://www.liepin.com/inshr/index.shtml" target="_blank" rel="nofollow">加入猎聘网</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>导航</dt>
+            <dd><a href="https://www.liepin.com/a/" target="_blank">全部招聘</a></dd>
+            <dd><a href="https://www.liepin.com/qiuzhi/" target="_blank">职位大全</a></dd>
+            <dd><a href="https://job.liepin.com/" target="_blank">招聘职位</a></dd>
+            <dd><a href="https://company.liepin.com/" target="_blank">企业名录</a></dd>
+            <dd><a href="https://www.liepin.com/citylist.shtml" target="_blank">城市列表</a></dd>
+          </dl>
+        </div>
+        <div class="item item-weibo">
+          <a href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"><i class="weibo"></i></a>
+          <p>猎聘微博</p>
+          <a class="btn-sina" href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"></a>
+        </div>
+        <div class="item item-apps">
+          <i class="mishu"></i>
+          <p>猎聘同道APP</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copy-footer">
+    <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备:11010502026763</p>
+    <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+  </div>
+</footer></body></html>

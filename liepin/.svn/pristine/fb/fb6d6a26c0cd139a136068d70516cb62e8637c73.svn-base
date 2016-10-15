@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<!-- 设置过滤字符 -->
+	<constant name="truts.i18n.encoding" value="UTF-8"></constant>
+	<!-- 设置自动刷新 -->
+	<constant name="struts.configuration.xml.reload" value="true"></constant>
+	<!-- 设置动态方法 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	
+	<!-- 分包 -->
+	<include file="postStruts.xml"></include>
+	
+	<!-- 用户注册登录 -->
+	<include file="loginAndReg.xml"></include>
+
+	
+
+
+
+
+</struts>    

@@ -1,0 +1,22 @@
+package com.liepin.liepin.dao.impl;
+
+import java.io.Serializable;
+import java.util.List;
+import java.util.Set;
+import javax.naming.InitialContext;
+import org.hibernate.LockMode;
+import org.hibernate.Query;
+import org.hibernate.SessionFactory;
+import org.hibernate.criterion.Example;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.liepin.liepin.pojo.MemberId;
+
+public class MemberIdDao extends  GenericDaoImpl<MemberId,Integer> {
+	@Override
+	public MemberId get(Integer id) {
+		return super.get(id);
+	}
+	
+}

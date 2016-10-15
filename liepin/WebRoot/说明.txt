@@ -1,0 +1,79 @@
+hr--企业	vip--会员	tourist--游客
+
+pin   存放任何权限都都快去的页面
+feedback.html		意见回复页
+
+
+mainlogin.html		游客注册，可跳转会员\HR登录
+
+
+HR
+
+
+登录			HR-login.html		
+
+注册			HR-reg.html		
+
+修改账户信息		HR-alter.html							header_801712d5.js关联用户下拉菜单
+
+发布职位		HR-release.htm							header_4ebead39.js
+
+管理职位		HR-manage.html							header_4ebead39.js
+
+按条件搜索简历		HR-condition.html						header_801712d5.js关联用户下拉菜单
+
+按编号搜索简历		HR-number.html							header_801712d5.js关联用户下拉菜单
+
+按发布职位		HR-fbzw.html					header_801712d5.js关联用户下拉菜单
+
+企业主页		HR-QY-index.html	
+
+企业主页-基本信息	HR-QY-jbxx.html							header_801712d5.js关联用户下拉菜单
+
+企业主页-企业风采	HR-QY-fc.html							header_801712d5.js关联用户下拉菜单
+
+
+
+意向沟通		HR-intention.html						header_4ebead39.js
+
+
+面试快			HR-interview.html						header_4ebead39.js
+
+
+推荐简历		HR-recommend.html						header_4ebead39.js
+
+
+RPO			HR-pro.html		
+
+
+
+
+会员
+
+
+会员首页：		vip_index.html			vip_index	文件夹
+
+写简历：		vip-writeCV.html		vip-writeCV
+	
+登录页：		vip-login.html			vip-login
+
+查看招聘信息：		vip-check.html			vip-check
+
+收藏职位：		vip-collect.html		vip-collect
+
+投递状态：		vip-state.html			vip-state
+
+投递成功：		vip-succee.html			vip-succee
+
+收藏职位：		vip-collect			vip-collect	
+
+
+
+
+会员登录后各行业主页	vip-all.html			header_52eeca5a.js下拉菜单干扰
+
+
+会员隐私页		vip-private.html		未知作用，没做
+
+
+会员修改页		vip-change-password	

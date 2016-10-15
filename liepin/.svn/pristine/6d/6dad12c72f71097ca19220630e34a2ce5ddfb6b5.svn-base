@@ -1,0 +1,7 @@
+package com.liepin.liepin.action;
+
+import com.opensymphony.xwork2.ActionSupport;
+
+public class HRLogin extends ActionSupport {
+
+}

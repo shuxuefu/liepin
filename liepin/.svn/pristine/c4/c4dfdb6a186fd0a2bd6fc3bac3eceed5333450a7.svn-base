@@ -1,0 +1,24 @@
+package com.liepin.liepin.service;
+
+import com.liepin.liepin.pojo.CompanyId;
+
+/**
+ * 企业账号登录注册(企业账号操作)
+ * @author 舒学福
+ *
+ */
+public interface CompanyService {
+	/**
+	 * 企业HR注册
+	 * @param company
+	 * @return
+	 */
+	public CompanyId CompanyReg(CompanyId company);
+	
+	/**
+	 * 企业HR登录
+	 * @param company
+	 * @return
+	 */
+	public CompanyId CompanyLogin(CompanyId company);
+}

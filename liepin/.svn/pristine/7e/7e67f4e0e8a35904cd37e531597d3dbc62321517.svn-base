@@ -1,0 +1,44 @@
+package com.liepin.liepin.dao.impl;
+
+import com.liepin.liepin.dao.CompanyIdDao;
+import com.liepin.liepin.pojo.CompanyId;
+
+public class CompanyIdDaoImpl implements CompanyIdDao {
+
+	@Override
+	public CompanyId get(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void save(CompanyId entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(CompanyId entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(CompanyId entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public CompanyId getById(CompanyId companyId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public CompanyId getByName(CompanyId companyId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

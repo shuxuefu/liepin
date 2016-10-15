@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<!-- 设置过滤字符 -->
+	<constant name="truts.i18n.encoding" value="UTF-8"></constant>
+	<!-- 设置自动刷新 -->
+	<constant name="struts.configuration.xml.reload" value="true"></constant>
+	<!-- 设置动态方法 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	<package name="default" namespace="/" extends="struts-default">
+		<!-- 公共配置 -->
+		<global-results>
+			<result name="error" >error.jsp</result>
+		</global-results>
+		<!-- method默认值为execute -->
+		<!-- <action name="login" method="execute" class="com.bdqn.struts.action.Login"> -->
+		
+		
+	<!-- 	<action name="index" class="com.bdqn.struts.action.Index">
+			<result name="success" >success.jsp</result>
+			<result name="error">error.jsp</result>
+		</action> -->
+		 
+	</package>
+	<package name="visitor"  extends="struts-default">
+		<!-- 用户注册 -->
+		<action name="userReg" class="com.liepin.liepin.action.UserReg">
+			<result name="success" type="redirect">/visitor/mainlogin.jsp</result>
+			<result name="error">/errorpage/loginerror.jsp</result>	
+		</action> 
+		
+		<!-- 用户登陆 -->
+		<action name="userLogin" class="com.liepin.liepin.action.UserLogin" >
+			<result name="success" type="redirectAction">userInfoCheck</result>
+			<result name="error">/errorpage/loginerror.jsp</result>			
+		</action>
+		
+		<!-- 用户登陆检查 -->	
+		<action name="userInfoCheck" class="com.liepin.liepin.action.UserInfoCheck">
+			<result name="needInfo">/vip/vipcard.jsp</result>
+			<result name="needProfile">/vip/vipProfile.jsp</result>
+			<result name="success">/vip/vipwriteCV.jsp</result>
+		</action>
+		
+		<!-- 企业HR注册 -->
+		<action name="hrReg" class="com.liepin.liepin.action.HRReg">
+			<result name="success" type="redirect">/visitor/hrreg.jsp</result>
+			<result name="error">/errorpage/loginerror.jsp</result>	
+		</action>
+		
+		<!-- 企业HR登陆 -->
+		<action name="hrLogin" class="com.liepin.liepin.action.HRLogin" >
+			<result name="success">blank.jsp</result>
+			<result name="error">/errorpage/loginerror.jsp</result>			
+		</action>	
+	</package>
+	
+	<package name="json" extends="json-default">
+		<action name="checkUserReg" method="checkExist" class="com.liepin.liepin.action.UserReg">
+			<result name="result" type="json">
+				<param name="includeProperties">
+					message
+				</param>
+			</result>
+		</action>
+		<action name="checkHRReg" method="checkExist" class="com.liepin.liepin.action.HRReg">
+			<result name="result" type="json">
+				<param name="includeProperties">
+					message
+				</param>
+			</result>
+		</action>
+	
+	</package>
+	
+</struts>    

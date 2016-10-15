@@ -1,0 +1,57 @@
+province 省份表
+city 市级表
+area 区级表
+
+language 语言表
+degree学历表（高中）
+ability能力表
+
+firmNature公司性质表     
+firmEmploye公司人数表    
+
+working 工作状态表
+marriage_table婚姻状态表
+internation_table 国籍表
+
+Base_industry基础行业（互联网-游侠-软件)  
+Base_son_industry基础行业的子行业 
+Base_third_industry三级行业  
+Base_fourth_industry四级行业表（职位） 
+
+/**************************以上都是公用的表************************************/
+
+member_id 会员的登陆信息表 账号 密码
+-----------------------------------------
+member_info 会员的基本信息表  
+language_info（会员的基本信息表）语言 
+add_Ability（会员的基本信息表）增加能力 
+-----------------------------------------
+education教育经历表
+-----------------------------------------
+projectE_X_P 项目经验表
+-----------------------------------------
+intention求职意向表   
+epIndustry(求职意向表)期望行业表  
+epPosition(求职意向表)期望职位表  
+epCity(求职意向表)期望的工作地点 
+=========================================
+Hr
+-----------------------------------------
+企业登陆账号登   company_id
+-----------------------------------------
+publish_post发布职位表
+management(发布职位的)所属部门
+workPlace(发布职位的)工作地点表
+lightspot_ID(发布职位的)职业亮点表
+function_ID (发布职位的)职能分类
+Company_Email_ID(发布职位的)企业Email
+language_ID(发布职位的)语言
+expectID(发布职位的)期望人选所在行业
+-----------------------------------------
+lightspot亮点表（和企业亮点公用）
+Company_ReceiveEmail企业收简历Email  
+
+-----------------------------------------
+company_home企业主页表
+company_bright(企业主页表)企业亮点表   
+company_mien企业风采表 （图片）       

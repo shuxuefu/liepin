@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>安全中心_猎聘猎头网:Liepin.com</title>
+    <!--#set var='compatible' value=''-->
+<meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+<link rel="icon" href="https://concat.lietou-static.com/core/pc/revs/images/common/favicon_1c83d380.ico" type="image/x-icon">
+<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+
+<link href="../css/common_9c884132.css" rel="stylesheet" type="text/css">
+<link href="../css/public_e7f2a817.css" rel="stylesheet" type="text/css">
+
+<link href="../css/security_6c3e2602.css" rel="stylesheet" type="text/css">
+<link href="../css/header_97dd5a04.css" rel="stylesheet" type="text/css">
+<script src="../js/jquery-1.js"></script>
+
+
+</head>
+<body>
+<header id="header-p-beta2">
+  <div class="header">
+    <div class="wrap">
+      <div class="logo">
+        <a href="https://www.liepin.com/"><img alt="猎聘网logo" class="pngfix" src="../images/logo_e062b0a3.png" width="110" height="40"></a>
+      </div>
+      <div class="quick-menu"><div class="quick-menu-logined-c">
+	  <style>
+	  #NTGUID__1 .link-menu-list{    position: relative;  }
+	  #NTGUID__1 .drop-menu-single,#NTGUID__1 .drop-menu-group{    display: inline-block;    vertical-align: top;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips{    position: absolute;    top: 45px;    right: -5px;    display: none;    color: #333;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips a{    color: #00528c;    text-decoration: none;  }#NTGUID__1 .drop-menu-group .drop-tips a:hover,#NTGUID__1 .drop-menu-group .drop-tips a:focus{    color: #1d81c7;    text-decoration: underline;  }#NTGUID__1 .drop-menu-group .drop-tips .drop-loading{    width: 300px;    text-align: center;  }#NTGUID__1 .drop-menu-group-active .drop-tips{    display: block;  }#NTGUID__1 .drop-menu-single .link-drop-menu,#NTGUID__1 .drop-menu-group .link-drop-menu{    display: inline-block;    vertical-align: top;    margin-top: 5px;    padding: 0 12px;    height: 45px;    line-height: 45px;    border-radius: 2px 2px 0 0;    position: relative;  }#NTGUID__1 .drop-menu-group-active .link-drop-menu{    background-color: #737b80;  }#NTGUID__1 .drop-menu-group .link-drop-menu .minixFace{    vertical-align: middle;  }#NTGUID__1 .drop-menu-group .link-drop-menu i.icons16-new-circle{    position: absolute;    right: 5px;    top: 8px;  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number{    position: absolute;    left: 28px;    top: 14px;    display: inline-block;    height: 15px;    line-height: 15px;    font-family: "Arial";    padding:0 3px;    background-color: #e60012;    color: #fff;    box-shadow:1px 1px 1px rgba(0,0,0,.2);  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number i{    position: absolute;    left: -10px;    top: 3px;    display: block;    border: 5px solid transparent;    _border: 5px dotted transparent;    border-right: 5px solid #e60012;    font-size:0;    line-height:0;  }</style><div id="NTGUID__1">
+  <div class="link-menu-list">
+  <script type="text/javascript">
+  	$(document).ready(function(){   
+     $(".drop-menu-group").mouseover(function(){
+          $(".drop-tips").show();
+       
+      });
+   
+     $(".drop-menu-group").mouseout(function(){
+          $(".drop-tips").hide();
+         
+      });
+})
+  </script>
+   <span data-selector="drop-menu-profile" class="drop-menu-group">
+      <a title="账号设置" href="javascript:;" class="link-drop-menu"><img class="minixFace" src="../images/55557f3b28ee44a8919620ce01a.gif" alt="个人设置"></a>
+      
+      <div class="drop-tips" data-inited="inited">
+	  
+	  <style>
+	  #NTGUID__4{     width: 300px;    border: 5px solid #737b80;    background-color: #fff;    text-align: left;    line-height: 20px;    border-radius: 3px;  }
+	  #NTGUID__4 .popup-title{    font-size: 14px;    color: #fff;    background-color: #737b80;    padding: 4px 10px 5px;    font-weight: bold;  }
+	  #NTGUID__4 .popup-title .float-right .white{font-weight:normal; color:#fff; font-size:12px;}
+	  #NTGUID__4 .popup-content table{ width: 100%; }
+	  #NTGUID__4 .popup-content table tr:hover{ background-color: #f0f0f0; }
+	  #NTGUID__4 .popup-content table tr td{ padding: 4px 0; border-bottom: 1px dotted #ccc; }
+	  #NTGUID__4 .popup-content table tr:last-of-type td{ border-bottom: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-icon{ width: 50px; text-align: center; }
+	  #NTGUID__4 .popup-content table tr td.data-icon .miniFace{ vertical-align: middle; }#NTGUID__4 .popup-content table tr td.data-icon .icons24{ margin: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-menu{ width: 52px; text-align: right; padding-right: 10px; }
+	  #NTGUID__4 .popup-content table tr td .miniFace{ margin: 6px 0; }
+	  #NTGUID__4 .popup-content table tr td a{ display: block; position: relative; color: #454545 !important; }
+	  #NTGUID__4 .popup-content table tr.photo td a{display:inline-block; *display:inline; *zoom:1;}
+	  #NTGUID__4 .popup-content table tr td.data-menu a{ color: #0077b3 !important; }
+	  #NTGUID__4 .popup-content table tr td a:hover{ text-decoration: none !important; }
+	  #NTGUID__4 .popup-content table tr td a em{ position: absolute; right: 10px; color: #0077b3; }</style>
+      <div id="NTGUID__4" style=" padding:0;">
+  <p class="popup-title"><a href="https://passport.liepin.com/logout/" class="float-right"><span class="white">退出</span></a>帐号设置</p>
+  <div class="popup-content" >
+    <table>
+      <tbody>
+        <tr class="photo">
+          <td class="data-icon"><a href="https://c.liepin.com/resume/getdefaultresume/"><img src="../images/55557f3b28ee44a8919620ce01a.gif" class="miniFace"></a></td>
+          <td>
+            <a href="https://c.liepin.com/resume/getdefaultresume/">
+            舒学福
+            </a>
+            
+              <a href="https://c.liepin.com/goldcard/home/" class="icons16 icons16-vip-gray"></a>
+            
+          </td>
+          <td class="data-menu"><a href="https://sns.liepin.com/main/">个人主页</a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-vip"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/goldcard/home/">金卡服务<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-proccessing"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/apply/applylist/">求职进展<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-favorite"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/favoritesjob/">职位收藏<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-subscribe"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/jobsubscribelist/">订阅职位<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-profile"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/profile/getsecret/">帐号隐私<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-safe"></i></td>
+          <td colspan="2"><a href="https://passport.liepin.com/secret/">帐号安全<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-help"></i></td>
+          <td colspan="2"><a href="https://www.liepin.com/help/">获得帮助<em>查看</em></a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div></div>
+    </span>
+  </div>
+</div>
+</div></div>
+    </div>
+  </div>
+</header>
+<div class="wrap">
+    <h2 class="profile-title"><em class="icons32 icons32-profile-setting"></em>安全中心</h2>
+    <div class="profile-main relative">
+        <div class="profile-tab clearfix">
+            <a class="active" href="https://passport.liepin.com/secret/index">帐号安全</a>
+            
+                <a href="https://passport.liepin.com/secret/binduser">帐号绑定</a>
+            
+        </div>
+        
+            <div class="profile-content" data-selector="email" data-value="496761012@qq.com" data-editurl="https://passport.liepin.com/c/updateuseremail.json"><style>#NTGUID__2 .tpl-main{  border: 1px solid #3d9ccc;  border-top-width: 3px;  padding: 15px 18px;}#NTGUID__2 .tpl-main h3.title{  margin: 0 0 20px;  font-size: 12px;  line-height: 14px;  text-align: left;}#NTGUID__2 .show-main{  height: 18px;  background: #fafafa;  border: 1px solid #e6e6e6;  padding: 14px 18px;}#NTGUID__2 .show-main:hover{  background: #eaf5fb;  border: 1px solid #d6ebf4;}#NTGUID__2 .show-main p{  float: left;  overflow: hidden;}#NTGUID__2 .show-main .show-title{  font-weight: bold;  width: 240px;}#NTGUID__2 .show-main .show-value{  width: 250px;  color: #0d92d6;}#NTGUID__2 .show-main .tool-main{  float: right;}#NTGUID__2 .show-main .tool-main .edit-btn{  margin-left: 25px;  float: right;}#NTGUID__2 .show-main .tool-main .show-status{  float: right;}#NTGUID__2 .edit-content .tip,#NTGUID__2 .check-content .tip{  width: 220px;  color: #999999;  float: left;  padding: 35px 10px 80px 40px;  border-right: 1px dashed #e5e5e5;}#NTGUID__2 .check-content .tip{  padding: 5px 10px 60px 40px;}#NTGUID__2 .edit-content .edit-right{  float: left;  padding-left: 10px;}#NTGUID__2 .check-content .check-right{  float: left;  padding-left: 10px;}#NTGUID__2 .captcha img{  vertical-align: middle;  width: 80px;  height: 32px;}#NTGUID__2 .form-list li{  margin-bottom: 15px;}#NTGUID__2 .form-list li .form-title{  width: 80px;  float: left;  text-align: right;  line-height: 30px;}#NTGUID__2 .form-list li .form-content{  padding-left: 80px;  line-height: 30px;  position: relative;  *float: left;  *padding-left: 0;  width: 350px;}#NTGUID__2 .form-list li .form-content .confirmation-text{  width: 90px;  margin-right: 10px;}#NTGUID__2 .form-list li .btn-wrap button.btn{  margin-right: 10px;}#NTGUID__2 .prompt{  color: #999;  margin-top: 35px;}#NTGUID__2 .complete-main{  text-align: center;}#NTGUID__2 .complete-main .conplete-title{  font-size: 22px;  font-family: "微软雅黑";  margin-bottom: 20px;  color: #52992e;  line-height: 24px;  padding-bottom: 25px;  border-bottom: 1px dotted #e5e5e5;}#NTGUID__2 .complete-main .complete-text{  font-size: 16px;  font-family: "微软雅黑";  line-height: 26px;  margin-bottom: 10px;}#NTGUID__2 .complete-main .complete-text span{  color: #ff7f00;}#NTGUID__2 .complete-main .complete-back{  color: #999999;  margin-bottom: 30px;}</style><div id="NTGUID__2"><div class="edit-main tpl-main">
+    <h3 class="title">修改邮箱</h3>
+    <div class="edit-content clearfix">
+      <p class="tip">您将改变您在猎聘网使用的邮箱。</p>
+      <div class="edit-right">
+        <form data-selector="edit-email" action="https://passport.liepin.com/c/updateuseremail.json" method="post" lt-plugins-valid="0.7425084864152756">
+          <ul class="form-list">
+            <li>
+              <span class="form-title">登录邮箱：</span>
+              <div class="form-content">496761012@qq.com</div>
+            </li>
+            <li>
+              <span class="form-title">登录密码：</span>
+              <div class="form-content">
+                <input size="40" name="user_pwd" class="text input-medium" placeholder="请输入猎聘登录密码" validate-rules="[['required','请输入$']]" validate-title="登录密码" type="password">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">新邮箱：</span>
+              <div class="form-content">
+                <input size="40" name="newemail" data-selector="check-email" class="text input-medium" placeholder="请输入新的登录邮箱" validate-rules="[['required','请输入$'],['email','请输入正确的$']]" validate-title="新的登录邮箱" type="text">
+              </div>
+            </li>
+            <li class="captcha">
+              <span class="form-title">验证码：</span>
+              <div class="form-content">
+                <input size="10" name="verifycode" class="text input-medium" validate-rules="[['required','请输入$']]" validate-title="验证码" type="text">
+                <img src="../css/randomcode" data-selector="captcha">
+                <a href="javascript:;" data-selector="change-captcha">看不清验证码？</a>
+              </div>
+            </li>
+            <li>
+              <span class="form-title">&nbsp;</span>
+              <div class="form-content btn-wrap">
+                <input name="" value="496761012@qq.com" type="hidden">
+                <button type="submit" class="btn btn-primary">确定</button><button data-selector="cancel" type="button" class="btn btn-light">取消</button>
+              </div>
+            </li>
+          </ul>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+            <div class="profile-content" data-selector="phone" data-value="13798004442" data-editurl="https://passport.liepin.com/c/updateusertel.json"><style>#NTGUID__1 .tpl-main{  border: 1px solid #3d9ccc;  border-top-width: 3px;  padding: 15px 18px;}#NTGUID__1 .tpl-main h3.title{  margin: 0 0 20px;  font-size: 12px;  line-height: 14px;  text-align: left;}#NTGUID__1 .show-main{  height: 18px;  background: #fafafa;  border: 1px solid #e6e6e6;  padding: 14px 18px;}#NTGUID__1 .show-main:hover{  background: #eaf5fb;  border: 1px solid #d6ebf4;}#NTGUID__1 .show-main p{  float: left;  overflow: hidden;}#NTGUID__1 .show-main .show-title{  font-weight: bold;  width: 240px;}#NTGUID__1 .show-main .show-value{  width: 250px;  color: #0d92d6;}#NTGUID__1 .show-main .tool-main{  float: right;}#NTGUID__1 .show-main .tool-main .edit-btn{  margin-left: 25px;  float: right;}#NTGUID__1 .show-main .tool-main .show-status{  float: right;}#NTGUID__1 .edit-content .tip,#NTGUID__1 .check-content .tip{  width: 220px;  color: #999999;  float: left;  padding: 35px 10px 80px 40px;  border-right: 1px dashed #e5e5e5;}#NTGUID__1 .edit-content .edit-right{  float: left;  padding-left: 10px;}#NTGUID__1 .check-content .check-right{  float: left;  padding-left: 10px;}#NTGUID__1 .input-medium{  width: 220px;}#NTGUID__1 .form-list li{  margin-bottom: 15px;}#NTGUID__1 .form-list li .form-title{  width: 80px;  float: left;  text-align: right;  line-height: 30px;}#NTGUID__1 .form-list li .form-content{  padding-left: 80px;  line-height: 30px;  position: relative;  *float: left;  *padding-left: 0;  width: 350px;}#NTGUID__1 .form-list li .form-content .confirmation-text{  width: 90px;  margin-right: 10px;}#NTGUID__1 .form-list li .btn-wrap{  padding-top: 10px;}#NTGUID__1 .form-list li .btn-wrap button.btn{  margin-right: 10px;}#NTGUID__1 .prompt{  color: #999;  margin-top: 35px;}#NTGUID__1 .confirmation-phone-tip{  color: #52992e;}#NTGUID__1 .complete-main{  text-align: center;}#NTGUID__1 .complete-main .conplete-title{  font-size: 22px;  font-family: "微软雅黑";  color: #52992e;  line-height: 24px;  padding-bottom: 15px;}#NTGUID__1 .complete-main .complete-text{  font-size: 16px;  font-family: "微软雅黑";  line-height: 26px;  margin-bottom: 10px;}#NTGUID__1 .complete-main .complete-text span{  color: #ff7f00;}#NTGUID__1 .complete-main .complete-back{  color: #999999;  margin-bottom: 30px;}#NTGUID__1 .confirmation-phone-tip{  color: #3d9ccc;}</style><div id="NTGUID__1"><div class="edit-main tpl-main">
+    <h3 class="title">修改手机</h3>
+    <div class="edit-content clearfix">
+      <p class="tip">请输入您要修改的手机号码，修改并验证后方便其他人联系到您。</p>
+      <div class="edit-right">
+        <form data-selector="edit-phone" action="https://passport.liepin.com/c/updateusertel.json" method="post" lt-plugins-valid="0.07623830406287069">
+          <ul class="form-list">
+            <li>
+              <span class="form-title">手机号码：</span>
+              <div class="form-content">
+                <input name="newtel" value="13798004442" data-selector="check-phone" class="text input-medium" placeholder="请输入手机号" validate-rules="[['required','请输入$'],['mobile','请输入正确的手机号']]" validate-title="手机号" type="text">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">验证码：</span>
+              <div class="form-content">
+                <p>
+                  <input name="verify_code" class="text input-medium confirmation-text" placeholder="请输入验证码" validate-rules="[['required','请输入$']]" validate-title="验证码" type="text"><button data-selector="confirmation-btn" type="button" class="btn btn-light confirmation-btn">获取验证码</button>
+                </p>
+                <p class="hide confirmation-phone-tip" data-selector="confirmation-tip"><em class="icons16 icons16-success-green"></em>验证码已发送</p>
+              </div>
+            </li>
+            <li>
+              <span class="form-title">&nbsp;</span>
+              <div class="form-content btn-wrap">
+                <button type="submit" class="btn btn-primary">确定</button><button data-selector="cancel" type="button" class="btn btn-light">取消</button>
+              </div>
+            </li>
+          </ul>
+          <p class="prompt">*如您一直无法收到验证码，请拨打猎聘网免费服务热线400-6838-789。</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+        
+        
+        
+		<div class="profile-content" data-selector="password" data-editurl="https://passport.liepin.com/secret/modifyloginpwd.json"><style>#NTGUID__3 .tpl-main{  border: 1px solid #3d9ccc;  border-top-width: 3px;  padding: 15px 18px;}#NTGUID__3 .tpl-main h3.title{  margin: 0 0 20px;  font-size: 12px;  line-height: 14px;  text-align: left;}#NTGUID__3 .show-main{  height: 18px;  background: #fafafa;  border: 1px solid #e6e6e6;  padding: 14px 18px;}#NTGUID__3 .show-main:hover{  background: #eaf5fb;  border: 1px solid #d6ebf4;}#NTGUID__3 .show-main p{  float: left;  overflow: hidden;}#NTGUID__3 .show-main .show-title{  font-weight: bold;  width: 240px;}#NTGUID__3 .show-main .show-value{  width: 250px;  color: #0d92d6;}#NTGUID__3 .show-main .tool-main{  float: right;}#NTGUID__3 .show-main .tool-main .edit-btn{  margin-left: 25px;  float: right;}#NTGUID__3 .show-main .tool-main .show-status{  float: right;}#NTGUID__3 .edit-content .tip{  width: 180px;  color: #999999;  float: left;  padding: 35px 30px 50px 0;  border-right: 1px dashed #e5e5e5;}#NTGUID__3 .edit-content .edit-right{  left;  padding-left: 250px;}#NTGUID__3 .input-medium{  width: 220px;}#NTGUID__3 .form-list li{  margin-bottom: 15px;}#NTGUID__3 .form-list li .form-title{  width: 80px;  float: left;  text-align: right;  line-height: 30px;}#NTGUID__3 .form-list li .form-content{  padding-left: 80px;  line-height: 30px;  position: relative;  *float: left;  *padding-left: 0;  width: 350px;}#NTGUID__3 .form-list li .form-content .confirmation-text{  width: 90px;  margin-right: 10px;}#NTGUID__3 .form-list li .btn-wrap{  padding-top: 10px;}#NTGUID__3 .form-list li .btn-wrap button.btn{  margin-right: 10px;}#NTGUID__3 .prompt{  color: #999;  margin-top: 35px;}#NTGUID__3 .complete-main{  text-align: center;}#NTGUID__3 .complete-main .conplete-title{  font-size: 22px;  font-family: "微软雅黑";  color: #52992e;  line-height: 24px;  padding-bottom: 15px;}#NTGUID__3 .complete-main .complete-text{  font-size: 16px;  font-family: "微软雅黑";  line-height: 26px;  margin-bottom: 10px;}#NTGUID__3 .complete-main .complete-text span{  color: #ff7f00;}#NTGUID__3 .complete-main .complete-back{  color: #999999;  margin-bottom: 30px;}#NTGUID__3 .confirmation-phone-tip{  color: #3d9ccc;}#NTGUID__3 .ver-code{  cursor: pointer;  vertical-align: middle;}</style><div id="NTGUID__3"><div class="edit-main tpl-main">
+    <h3 class="title">修改密码</h3>
+    <div class="edit-content clearfix">
+      <div class="edit-right">
+        <form data-selector="edit-password" action="https://passport.liepin.com/secret/modifyloginpwd.json" method="post" lt-plugins-valid="0.5971094156044744">
+          <ul class="form-list">
+            <li>
+              <span class="form-title">旧密码：</span>
+              <div class="form-content">
+                <input name="oldpwd" class="text input-medium" placeholder="请输入登录密码" validate-rules="[['required','请输入$']]" validate-title="登录密码" type="password">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">新密码：</span>
+              <div class="form-content">
+                <input name="user_pwd" data-selector="check-password" class="text input-medium" placeholder="6-16位字母、数字，不支持空格" validate-rules="[['required','请输入$'],['length',{min:6,max:16},'$1长度不能$2$3个字符'],['pattern',/^[0-9a-zA-Z!@_.,$]*$/g,'请使用6~16位的数字以及字母组合']]" validate-title="密码" type="password">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">重复新密码：</span>
+              <div class="form-content">
+                <input data-nick="ok_new_password" class="text input-medium" placeholder="再输入一遍" validate-rules="[['required','请输入$'],['repassword','两次密码不一致'],['length',{min:6,max:16},'$1长度不能$2$3个字符'],['pattern',/^[0-9a-zA-Z!@_.,$]*$/g,'请使用6~16位的数字以及字母组合']]" validate-title="密码" type="password">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">验证码：</span>
+              <div class="form-content">
+                <input name="verifycode" class="text input-medium" placeholder="请输入验证码" maxlength="4" validate-rules="[['required','请输入$']]" validate-title="验证码" type="text">
+                  <img data-selector="ver-code" class="ver-code" src="../css/a" height="30">
+              </div>
+            </li>
+            <li>
+              <span class="form-title">&nbsp;</span>
+              <div class="form-content btn-wrap">
+                <button type="submit" class="btn btn-primary">确定</button><button data-selector="cancel" type="button" class="btn btn-light">取消</button>
+              </div>
+            </li>
+          </ul>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+    </div>
+</div>
+
+<style>
+#footer-beta2{margin-top: 20px; min-width: 980px; overflow: hidden;}
+#footer-beta2 .copyright{*zoom: 1; line-height: 25px; margin-top: 15px;}
+#footer-beta2 .copyright:after{visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0;}
+#footer-beta2 .copyright,
+#footer-beta2 .copyright a{color: #999;}
+#footer-beta2 .copyright .copy-side{float: left; width: 300px; font-size: 14px;}
+#footer-beta2 .copyright .copy-main{margin-left: 200px; text-align: right;}
+#footer-beta2 .copyright .copy-main a{margin: 0 5px;}
+#footer-beta2 .copyright .copy-main a:last-child{margin-right: 0;}
+
+.icon-16 {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin-top: 1px;
+  margin-right: .3em;
+  line-height: 16px;
+  vertical-align: text-top;
+  background-image: url("https://concat.lietou-static.com/dev/lpt/pc/revs/v1/images/icons/icon-16_afad14b2.png");
+  background-position: 16px 16px;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.icon-bottom-phone {
+  background-position: 0 -64px;
+}
+</style>
+<footer id="footer-beta2">
+  <div class="wrap">
+    <hr>
+    <div class="copyright">
+      <div class="copy-side">
+        <i class="icon-16 icon-bottom-phone"></i>服务热线：010-56905000、400-6838-789
+      </div>
+      <div class="copy-main">
+        <p>	<a href="http://www.liepin.com/about/introduction.shtml" target="blank">猎聘网简介</a>|
+        	<a href="http://www.liepin.com/inshr/index.shtml" target="blank">加入猎聘网</a>|
+        	<a href="http://www.liepin.com/about/innovation.shtml" target="blank">创新优势</a>|
+        	<a href="http://www.liepin.com/user/agreement.shtml" target="blank">用户协议</a>|
+        	<a href="http://www.liepin.com/about/mediareports.shtml" target="blank">媒体报道</a>|
+        	<a href="http://www.liepin.com/about/about_us.shtml" target="blank">联系我们</a>|
+        	<a href="http://www.liepin.com/sitemap.shtml" target="blank">网站地图</a>|
+        	<a href="http://www.liepin.com/cooperation.shtml" target="blank">网站合作</a>|
+        	<a data-selector="suggest" href="http://www.liepin.com/user/feedback/" target="blank">意见反馈</a>|
+        	<a href="http://www.liepin.com/" target="blank">猎聘网</a>
+        </p>
+        <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备11010502026763</p>
+        <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+      </div>
+    </div>
+  </div>
+</footer></body></html>

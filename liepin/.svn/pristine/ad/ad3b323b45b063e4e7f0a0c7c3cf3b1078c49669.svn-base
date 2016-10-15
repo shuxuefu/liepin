@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>搜索人才简历|简历库|猎聘通|最大的中文高端招聘社区</title>
+<!--  -->
+<meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
+<link rel="icon" href="https://concat.lietou-static.com/dev/core/pc/revs/v3/static/images/favicon_1c83d380.ico" type="image/x-icon">
+<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+
+<script src="../js/common_538a1a2b.js"></script>
+<script src="../js/searchResume.js"></script>
+
+
+<link rel="stylesheet" href="../css/index_cc72a041.css" "="">
+<link rel="stylesheet" href="../css/common_d958e54c.css" "="">
+<link rel="stylesheet" href="../css/searchResume.css" "=""> 
+
+
+
+</head>
+<body data-navbar="soresume">
+<!--  -->
+<header id="header">
+  <!-- 导航条上方的欢迎信息和提示 -->
+  <div class="head">
+    <div class="wrap options">
+       <span class="option-item user-welcome" data-selector="user-welcome">您好，广州红叶网络科技有限公司</span>
+       <div class="option-item setting relative">
+         <a class="system-setting" href="javascript:;">
+          &gt;
+           <span class="text-middle">系统设置</span>
+         </a>
+         <ul class="animated fade-in">
+           <li data-selector="account">
+             <a href="https://lpt.liepin.com/usere/edituser/">
+              &gt;
+               <span class="text-middle">修改账户信息</span>
+             </a>
+           </li>
+           <li data-selector="resources">
+             <a href="https://lpt.liepin.com/lptresourcelog/showresourcelist/?is_first=0">
+              &gt;
+               <span class="text-middle">资源收支明细</span>
+             </a>
+           </li>
+           <li data-selector="subaccount">
+             <a href="https://lpt.liepin.com/account/showaccountlist/">
+             &gt;
+               <span class="text-middle">管理子账号</span>
+             </a>
+           </li>
+           <li data-selector="branches">
+             <a href="https://lpt.liepin.com/org/showorglist/">
+              &gt;
+               <span class="text-middle">分支机构</span>
+             </a>
+           </li>
+           <li data-selector="company">
+             <a href="https://lpt.liepin.com/usere/editusere/">
+             &gt;
+               <span class="text-middle">企业主页</span>
+             </a>
+           </li>
+           <li data-selector="contract">
+             <a href="https://lpt.liepin.com/privilege/showprivilegelist/">
+              &gt;
+               <span class="text-middle">合同列表</span>
+             </a>
+           </li>
+         </ul>
+       </div>
+       <a class="option-item exit" href="https://passport.liepin.com/logout">
+        &gt;
+         <span class="text-middle">安全退出</span>
+       </a>
+     </div>
+  </div>
+  <!-- 导航条选项 -->
+  <div class="navbar">
+    <div class="wrap">
+      <!-- logo和系统类型 -->
+      <div class="system">
+        <!-- logo -->
+        <a class="logo" href="https://lpt.liepin.com/">
+          <img alt="" src="../images/logo_ce2f7a92.png">
+        </a>
+        <!-- 系统类型选择 -->
+        <div class="system-type switch relative" data-selector="system-type">
+          <!-- 目前系统类型图标 -->
+          <div class="type">
+            <i class="type-img"></i>
+            <i class="downarrow-img"></i>
+          </div>
+         
+        </div>
+      </div>
+      <!-- 导航条中各种选项 -->
+      <nav>
+        <ul class="nav-items float-left">
+          <li data-name="home">
+            <a href="https://lpt.liepin.com/">首页</a>
+          </li>
+          <li data-name="publish">
+            <a href="https://lpt.liepin.com/ejob/editejob4public/">发职位</a>
+          </li>
+          <li class="active" data-name="soresume">
+            <a href="https://lpt.liepin.com/resume/socondition/">找简历</a>
+          </li>
+          <li data-name="job">
+            <a href="https://lpt.liepin.com/ejob/showpublishejoblist/">职位管理</a>
+          </li>
+          <li data-name="resume">
+            <a href="https://lpt.liepin.com/apply/resume/showrecvresumelist/?kind=1">简历管理</a>
+          </li>
+          <li data-name="msk">
+            <a href="https://msk.liepin.com/">RPO+<i class="beta"></i></a>
+          </li>
+          <li data-name="salary-report">
+            <a href="https://lpt.liepin.com/salaryreport/getlist">薪酬报告</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<div class="menu-section wrap"> 
+  <section class="submenu clearfix">
+    <ul>
+      <li><a href="https://lpt.liepin.com/soresume/showcondition/" class="active">按条件搜索</a></li>
+      <li><a href="https://lpt.liepin.com/soresume/showcondition/ejob/">按发布职位搜索</a></li>
+      <li><a href="https://lpt.liepin.com/soresume/showcondition/res/">按简历编号搜索</a></li>
+    </ul>
+    <a href="javascript:;" class="old-version">返回旧版找简历</a>
+  </section>
+  <section class="board">
+    <section class="search clearfix">
+      <div class="selectui float-right select-list" data-size="17" data-selector="select-list">
+        <div style="width: 20.5em;" class="selectui-head">
+          <input data-ui="SelectUI" autocomplete="off" name="" value="选择搜索条件" type="hidden">
+          <div class="selectui-result">选择搜索条件</div>
+          <div data-name="" class="selectui-drop"></div>
+        </div>
+        <ul style="right: auto; height: auto; width: 246px;">
+          <li class="active" data-value="选择搜索条件" data-selected="selected"><a href="javascript:;">选择搜索条件</a></li>
+        </ul>
+      </div>
+      <form lt-plugins-valid="0.5060174550689838" autocomplete="off" method="post" action="https://lpt.liepin.com/soresume/so/">
+        <div class="group" data-selector="search-type">
+          <label class="group-title">搜索范围：</label>
+          <div class="group-content"> 
+          	
+          	     <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="searchLevel" value="" disabled="disabled" type="radio"><i style="margin: 0px 4.8px 0px 0px;" class="radioui radioui-disabled" data-name="searchLevel"></i>全部人才</label>
+                 <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="searchLevel" value="0" checked="checked" type="radio"><i style="margin: 0px 4.8px 0px 0px;" class="radioui radioui-checked" data-name="searchLevel"></i>白领人才</label>
+                 <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="searchLevel" value="1" disabled="disabled" type="radio"><i style="margin: 0px 4.8px 0px 0px;" class="radioui radioui-disabled" data-name="searchLevel"></i>精英人才</label>
+          	
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">关键词：</label>
+          <div class="group-content keys relative" data-selector="keywords">
+            <div class="selectui">
+              <div class="selectui-head">
+                <input data-ui="SelectUI" autocomplete="off" name="keysRangType" value="" data-selector="key-type" type="hidden">
+                <div class="selectui-result">默认</div>
+                <div data-name="keysRangType" class="selectui-drop"></div>
+              </div>
+              <ul style="right: auto; height: auto; width: 64px;">
+                <li class="active" data-value="" data-selected="selected"><a href="javascript:;">默认</a></li>
+                <li data-value="1"><a href="javascript:;">职位</a></li>
+                <li data-value="2"><a href="javascript:;">公司</a></li>
+              </ul>
+            </div>
+            <input class="keywords" name="keys" size="52" placeholder="可搜索职位，公司，技能等，多个词用空格隔开，70字以内" validate-title="关键词" validate-rules="[['reallength',{'max':140},'$1总长度不能大于70个字']]" maxlength="70" autocomplete="off" type="text">
+            <label>　<input autocomplete="off" style="display: none;" class="checkbox" name="keysRelation" value="1" type="checkbox"><i style="margin: 0px 4.8px 0px 0px;" class="checkboxui" data-name="keysRelation"></i> 包含任一关键词</label>
+            <ul style="display: none;" class="suggest-list" data-selector="suggest-list"></ul>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">地区：</label>
+          <div class="group-content">
+            <input style="display: none;" data-ui="LocalDataUIC" class="text" placeholder="请选择地区" name="dqs" size="63" data-selector="area" type="text"><span style="font-size: 12px; width: 377px; height: 30px; line-height: 30px;" class="LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="dqs"><i style="line-height: 30px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; margin-top: 1px;" class="placeholder">请选择地区</i><span style="left: 8px; height: 30px; line-height: 30px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 30px; line-height: 30px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; padding-top: 0px; margin-top: 0px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 32px; margin-top: -1px;" data-nick="" class="drop"></em></span>
+            <label>　<input autocomplete="off" style="display: none;" class="checkbox" name="contains_wantdq" value="1" checked="checked" type="checkbox"><i style="margin: 0px 4.8px 0px 0px;" class="checkboxui checkboxui-checked" data-name="contains_wantdq"></i> 包含期望工作地区</label>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">行业：</label>
+          <div class="group-content">
+            <input style="display: none;" data-ui="LocalDataUIC" class="text" placeholder="请选择行业" name="industrys" size="63" data-selector="city" type="text"><span style="font-size: 12px; width: 377px; height: 30px; line-height: 30px;" class="LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="industrys"><i style="line-height: 30px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; margin-top: 1px;" class="placeholder">请选择行业</i><span style="left: 8px; height: 30px; line-height: 30px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 30px; line-height: 30px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; padding-top: 0px; margin-top: 0px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 32px; margin-top: -1px;" data-nick="" class="drop"></em></span>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">职能：</label>
+          <div class="group-content">
+            <input style="display: none;" data-ui="LocalDataUIC" class="text" placeholder="请选择职能" name="jobtitles" size="63" data-selector="jobtitle" type="text"><span style="font-size: 12px; width: 377px; height: 30px; line-height: 30px;" class="LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="jobtitles"><i style="line-height: 30px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; margin-top: 1px;" class="placeholder">请选择职能</i><span style="left: 8px; height: 30px; line-height: 30px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 30px; line-height: 30px; font-size: 12px; font-family: &quot;microsoft yahei&quot;,Arial,sans-serif; padding-top: 0px; margin-top: 0px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 32px; margin-top: -1px;" data-nick="" class="drop"></em></span>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">学历：</label>
+          <div class="group-content">
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="005" type="checkbox">博士后</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="010" type="checkbox">博士</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="020" type="checkbox">MBA/EMBA</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="030" type="checkbox">硕士</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="040" type="checkbox">本科</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="050" type="checkbox">大专</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="060" type="checkbox">中专/中技</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="edulevel" value="080" type="checkbox">高中以下</label>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">工作年限：</label>
+          <div class="group-content">
+            <div class="selectui" data-size="10" data-selector="workyear">
+              <div style="width: 13.5em;" class="selectui-head">
+                <input data-ui="SelectUI" autocomplete="off" name="workyears" value="" type="hidden">
+                <div class="selectui-result">不限</div>
+                <div data-name="workyears" class="selectui-drop"></div>
+              </div>
+              <ul style="right: auto; height: auto; width: 162px;">
+                <li class="active" data-value="" data-selected="selected"><a href="javascript:;">不限</a></li>
+                <li data-value="0,1"><a href="javascript:;">0-1年</a></li>
+                <li data-value="2,3"><a href="javascript:;">2-3年</a></li>
+                <li data-value="4,5"><a href="javascript:;">4-5年</a></li>
+                <li data-value="6,10"><a href="javascript:;">6-10年</a></li>
+                <li data-value="10,"><a href="javascript:;">10年以上</a></li>
+                <li data-value="" class="custom-factor">
+                  <a href="javascript:;">
+                    <input class="input-small" name="" size="10" data-selector="yearslow" maxlength="2" type="text"> - 
+                    <input class="input-small" name="" size="10" data-selector="yearshigh" maxlength="2" type="text"> <span>年</span>
+                    <div class="text-center btns hide">
+                      <button type="button" class="btn btn-primary btn-small">确定</button>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">年龄：</label>
+          <div class="group-content">
+            <div class="selectui" data-size="10" data-selector="age">
+              <div style="width: 13.5em;" class="selectui-head">
+                <input data-ui="SelectUI" autocomplete="off" name="age" value="" type="hidden">
+                <div class="selectui-result">不限</div>
+                <div data-name="age" class="selectui-drop"></div>
+              </div>
+              <ul style="right: auto; height: auto; width: 162px;">
+                <li class="active" data-value="" data-selected="selected"><a href="javascript:;">不限</a></li>
+                <li data-value="18,22"><a href="javascript:;">18-22岁</a></li>
+                <li data-value="23,25"><a href="javascript:;">23-25岁</a></li>
+                <li data-value="25,30"><a href="javascript:;">25-30岁</a></li>
+                <li data-value="31,35"><a href="javascript:;">31-35岁</a></li>
+                <li data-value="36,40"><a href="javascript:;">36-40岁</a></li>
+                <li data-value="40,"><a href="javascript:;">40岁以上</a></li>
+                <li data-value="" class="custom-factor">
+                  <a href="javascript:;">
+                    <input class="input-small" name="" size="10" data-selector="yearslow" maxlength="2" type="text"> - 
+                    <input class="input-small" name="" size="10" data-selector="yearshigh" maxlength="2" type="text"> <span>岁</span>
+                    <div class="text-center btns hide">
+                      <button type="button" class="btn btn-primary btn-small">确定</button>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">性别：</label>
+          <div class="group-content">
+            <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="sex" value="" checked="checked" type="radio">不限</label>
+            <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="sex" value="男" type="radio">男</label>
+            <label class="limit-select"><input autocomplete="off" style="display: none;" class="radio" name="sex" value="女" type="radio"></i>女</label>
+          </div>
+        </div>
+        <div class="group">
+          <label class="group-title">更新时间：</label>
+          <div class="group-content">
+            <div class="selectui" data-size="10">
+              <div style="width: 13.5em;" class="selectui-head">
+                <input data-ui="SelectUI" autocomplete="off" name="updateDate" value="" type="hidden">
+                <div class="selectui-result">不限</div>
+                <div data-name="updateDate" class="selectui-drop"></div>
+              </div>
+              <ul style="right: auto; height: auto; width: 162px;">
+                <li class="active" data-value="" data-selected="selected"><a href="javascript:;">不限</a></li>
+                <li data-value="1"><a href="javascript:;">最近三天</a></li>
+                <li data-value="2"><a href="javascript:;">最近一周</a></li>
+                <li data-value="3"><a href="javascript:;">最近两周</a></li>
+                <li data-value="4"><a href="javascript:;">最近一个月</a></li>
+                <li data-value="5"><a href="javascript:;">最近两个月</a></li>
+                <li data-value="6"><a href="javascript:;">最近三个月</a></li>
+                <li data-value="7"><a href="javascript:;">最近六个月</a></li>
+                <li data-value="8"><a href="javascript:;">最近一年</a></li>
+                <li data-value="10"><a href="javascript:;">一年以上</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="more-factor">
+          <div class="group">
+            <label class="group-title">目前年薪：</label>
+            <div class="group-content">
+              <input name="yearSalarylow" maxlength="3" validate-title="年薪下限" validate-rules="[['number',{'float':false},'$输入不正确'],['dyncheck','YearSalary']]" size="3" type="text"> 万/年 至 
+              <input name="yearSalaryhigh" maxlength="3" validate-title="年薪上限" validate-rules="[['number',{'float':false},'$输入不正确'],['dyncheck','YearSalary']]" size="3" type="text"> 万/年
+            </div>
+          </div>
+          <div class="group">
+            <label class="group-title">期望年薪：</label>
+            <div class="group-content">
+              <input name="wantYearSalaryLow" maxlength="3" validate-title="期望年薪下限" validate-rules="[['number','$输入不正确'],['dyncheck','WantYearSalary']]" size="3" type="text"> 万/年 至 
+              <input name="wantYearSalaryHigh" maxlength="3" validate-title="期望年薪上限" validate-rules="[['number','$输入不正确'],['dyncheck','WantYearSalary']]" size="3" type="text"> 万/年
+            </div>
+          </div>
+          <div class="group">
+            <label class="group-title">求职状态：</label>
+            <div class="group-content">
+              <div class="selectui" data-size="10">
+                <div style="width: 13.5em;" class="selectui-head">
+                  <input data-ui="SelectUI" autocomplete="off" name="userStatus" value="" type="hidden">
+                  <div class="selectui-result">不限</div>
+                  <div data-name="userStatus" class="selectui-drop"></div>
+                </div>
+                <ul style="right: auto; height: auto; width: 162px;">
+                  <li class="active" data-selected="selected" data-value=""><a href="javascript:;">不限</a></li>
+                  <li data-value="1"><a href="javascript:;">离职，正在找工作</a></li>
+                  <li data-value="2"><a href="javascript:;">在职，急寻新工作</a></li>
+                  <li data-value="0"><a href="javascript:;">在职，看看新机会</a></li>
+                  <li data-value="3"><a href="javascript:;">在职，暂无跳槽打算</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="group">
+            <label class="group-title">语言能力：</label>
+            <div class="group-content">
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="language_skills" value="4" type="checkbox">普通话</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="language_skills" value="1" type="checkbox">英语</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="language_skills" value="2" type="checkbox">日语</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="language_skills" value="3" type="checkbox">法语</label>
+              <label class="limit-select"><input autocomplete="off" style="display: none;" class="checkbox" name="language_skills" value="5" type="checkbox">粤语</label>
+              <label class="limit-select">其他 <input name="language_content" maxlength="15" size="14" type="text"></label>
+            </div>
+          </div>
+        </div>
+        <div class="form-actions">
+          <a href="javascript:;" data-selector="btn-more">设置更多搜索条件</a>
+          <a href="javascript:;" data-selector="save-factor">保存搜索条件</a>
+          <div class="btns"><input value="　　　搜索　　　" name="" class="btn btn-primary" type="submit"></div>
+        </div>
+      </form>
+    </section>
+  </section> 
+</div>
+<!--  -->
+<footer id="footer" class="wrap">
+  <section class="float-left copy-left">
+    <div class="tel">
+      <p>服务热线</p>
+      <span>400-6838-789 或 010-56905000</span>
+    </div>
+    <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备11010502026763</p>
+    <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+  </section>
+  <ul class="float-right copy-right">
+    <li>
+      <p><a href="https://www.liepin.com/about/introduction.shtml" target="_blank">猎聘网简介</a></p>
+      <p><a href="https://www.liepin.com/inshr/index.shtml" target="_blank">加入猎聘网</a></p>
+      <p><a href="https://www.liepin.com/about/innovation.shtml" target="_blank">创新优势</a></p>
+      <p><a href="https://www.liepin.com/user/agreement.shtml" target="_blank">用户协议</a></p>
+    </li>
+    <li>
+      <p><a href="https://www.liepin.com/about/mediareports.shtml" target="_blank">媒体报道</a></p>
+      <p><a href="https://www.liepin.com/cooperation.shtml" target="_blank">网站合作</a></p>
+      <p><a href="https://www.liepin.com/sitemap.shtml" target="_blank">网站地图</a></p>
+    </li>
+    <li>
+      <p><a href="https://www.liepin.com/about/about_us.shtml" target="_blank">联系我们</a></p>
+      <p><a href="https://www.liepin.com/user/feedback/" target="_blank">意见反馈</a></p>
+    </li>
+  </ul>
+</footer>
+
+
+</body></html>

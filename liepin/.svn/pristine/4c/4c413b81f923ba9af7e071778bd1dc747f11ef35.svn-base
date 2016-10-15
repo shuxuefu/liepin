@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<!-- saved from url=(0037)https://c.liepin.com/apply/applylist/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>应聘记录_找职位_猎聘猎头网:Liepin.com</title>
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<!--#set var='compatible' value=''-->
+<link rel="icon" href="https://concat.lietou-static.com/dev/core/pc/revs/v3/static/images/favicon_1c83d380.ico" type="image/x-icon">
+<script type="text/javascript" src="../js/jquery1.42.min.js"></script>
+
+<link rel="stylesheet" href="../css/common_1120b351.css" "="">
+<link rel="stylesheet" href="../css/index_3520b75a.css" "="">
+<link rel="stylesheet" href="../css/apply.applylist_e6020d2a.css" "="">
+<link rel="stylesheet" href="../css/footer_9e37f82a.css" "="">
+
+<link rel="stylesheet" href="../css/header_14a31879.css" "="">
+</head>
+<body data-navbar="job" id="apply-applylist">
+
+
+<header id="header-c-beta2">
+  <div class="header">
+    <div class="wrap">
+      <div class="logo">
+        <a href="https://www.liepin.com/"><img alt="猎聘网logo" class="pngfix" src="../images/logo_e062b0a3.png" width="110" height="40"><em><i class="icons16 icons16-home-white" title="首页"></i></em></a>
+      </div>
+      <div class="quick-menu"><div class="quick-menu-logined-c">
+	  <style>
+	  #NTGUID__1 .link-menu-list{    position: relative;  }
+	  #NTGUID__1 .drop-menu-single,#NTGUID__1 .drop-menu-group{    display: inline-block;    vertical-align: top;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips{    position: absolute;    top: 45px;    right: -5px;    display: none;    color: #333;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips a{    color: #00528c;    text-decoration: none;  }#NTGUID__1 .drop-menu-group .drop-tips a:hover,#NTGUID__1 .drop-menu-group .drop-tips a:focus{    color: #1d81c7;    text-decoration: underline;  }#NTGUID__1 .drop-menu-group .drop-tips .drop-loading{    width: 300px;    text-align: center;  }#NTGUID__1 .drop-menu-group-active .drop-tips{    display: block;  }#NTGUID__1 .drop-menu-single .link-drop-menu,#NTGUID__1 .drop-menu-group .link-drop-menu{    display: inline-block;    vertical-align: top;    margin-top: 5px;    padding: 0 12px;    height: 45px;    line-height: 45px;    border-radius: 2px 2px 0 0;    position: relative;  }#NTGUID__1 .drop-menu-group-active .link-drop-menu{    background-color: #737b80;  }#NTGUID__1 .drop-menu-group .link-drop-menu .minixFace{    vertical-align: middle;  }#NTGUID__1 .drop-menu-group .link-drop-menu i.icons16-new-circle{    position: absolute;    right: 5px;    top: 8px;  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number{    position: absolute;    left: 28px;    top: 14px;    display: inline-block;    height: 15px;    line-height: 15px;    font-family: "Arial";    padding:0 3px;    background-color: #e60012;    color: #fff;    box-shadow:1px 1px 1px rgba(0,0,0,.2);  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number i{    position: absolute;    left: -10px;    top: 3px;    display: block;    border: 5px solid transparent;    _border: 5px dotted transparent;    border-right: 5px solid #e60012;    font-size:0;    line-height:0;  }</style><div id="NTGUID__1">
+  <div class="link-menu-list">
+  <script type="text/javascript">
+  	$(document).ready(function(){   
+     $(".drop-menu-group").mouseover(function(){
+          $(".drop-tips").show();
+       
+      });
+   
+     $(".drop-menu-group").mouseout(function(){
+          $(".drop-tips").hide();
+         
+      });
+})
+  </script>
+   <span data-selector="drop-menu-profile" class="drop-menu-group">
+      <a title="账号设置" href="javascript:;" class="link-drop-menu"><img class="minixFace" src="../images/55557f3b28ee44a8919620ce01a.gif" alt="个人设置"></a>
+      
+      <div class="drop-tips" data-inited="inited">
+	  
+	  <style>
+	  #NTGUID__4{     width: 300px;    border: 5px solid #737b80;    background-color: #fff;    text-align: left;    line-height: 20px;    border-radius: 3px;  }
+
+	  #NTGUID__4 .popup-title{    font-size: 14px;    color: #fff;    background-color: #737b80;    padding: 4px 10px 5px;    font-weight: bold;  }
+	  #NTGUID__4 .popup-title .float-right .white{font-weight:normal; color:#fff; font-size:12px;}
+	  #NTGUID__4 .popup-content table{ width: 100%; }
+	  #NTGUID__4 .popup-content table tr:hover{ background-color: #f0f0f0; }
+	  #NTGUID__4 .popup-content table tr td{ padding: 4px 0; border-bottom: 1px dotted #ccc; }
+	  #NTGUID__4 .popup-content table tr:last-of-type td{ border-bottom: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-icon{ width: 50px; text-align: center; }
+	  #NTGUID__4 .popup-content table tr td.data-icon .miniFace{ vertical-align: middle; }#NTGUID__4 .popup-content table tr td.data-icon .icons24{ margin: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-menu{ width: 52px; text-align: right; padding-right: 10px; }
+	  #NTGUID__4 .popup-content table tr td .miniFace{ margin: 6px 0; }
+	  #NTGUID__4 .popup-content table tr td a{ display: block; position: relative; color: #454545 !important; }
+	  #NTGUID__4 .popup-content table tr.photo td a{display:inline-block; *display:inline; *zoom:1;}
+	  #NTGUID__4 .popup-content table tr td.data-menu a{ color: #0077b3 !important; }
+	  #NTGUID__4 .popup-content table tr td a:hover{ text-decoration: none !important; }
+	  #NTGUID__4 .popup-content table tr td a em{ position: absolute; right: 10px; color: #0077b3; }</style>
+      <div id="NTGUID__4" style=" padding:0;">
+  <p class="popup-title"><a href="https://passport.liepin.com/logout/" class="float-right"><span class="white">退出</span></a>帐号设置</p>
+  <div class="popup-content" >
+    <table>
+      <tbody>
+        <tr class="photo">
+          <td class="data-icon"><a href="https://c.liepin.com/resume/getdefaultresume/"><img src="../images/55557f3b28ee44a8919620ce01a(1).gif" class="miniFace"></a></td>
+          <td>
+            <a href="https://c.liepin.com/resume/getdefaultresume/">
+            舒学福
+            </a>
+            
+              <a href="https://c.liepin.com/goldcard/home/" class="icons16 icons16-vip-gray"></a>
+            
+          </td>
+          <td class="data-menu"><a href="https://sns.liepin.com/main/">个人主页</a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-vip"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/goldcard/home/">金卡服务<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-proccessing"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/apply/applylist/">求职进展<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-favorite"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/favoritesjob/">职位收藏<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-subscribe"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/jobsubscribelist/">订阅职位<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-profile"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/profile/getsecret/">帐号隐私<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-safe"></i></td>
+          <td colspan="2"><a href="https://passport.liepin.com/secret/">帐号安全<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-help"></i></td>
+          <td colspan="2"><a href="https://www.liepin.com/help/">获得帮助<em>查看</em></a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div></div>
+    </span>
+  </div>
+</div>
+</div></div>
+    </div>
+  </div>
+  <nav>
+    <div class="wrap">
+      <ul>
+        <li data-name="home">
+          <div class="nav-title"><a href="https://c.liepin.com/">首页</a></div>
+        </li>
+        <li data-name="subsite">
+          <div class="nav-title"><a href="javascript:;">行业<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://www.liepin.com/it/">IT·互联网</a></p>
+            <p><a href="https://www.liepin.com/realestate/">房地产</a></p>
+            <p><a href="https://www.liepin.com/financial/">金融</a></p>
+            <p><a href="https://www.liepin.com/consumergoods/">消费品</a></p>
+            <p><a href="https://www.liepin.com/automobile/">汽车·制造</a></p>
+            <p><a href="https://www.liepin.com/medicine/">医疗·化工</a></p>
+          </div>
+        </li>
+        <li data-name="job" class="active">
+          <div class="nav-title"><a href="https://www.liepin.com/zhaopin/">职位<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://www.liepin.com/zhaopin/">搜索职位</a></p>
+            <p><a href="https://c.liepin.com/apply/applylist/">我投递的职位</a></p>
+            <p><a href="https://c.liepin.com/job/favoritesjob/">我收藏的职位</a></p>
+            <p><a href="https://c.liepin.com/job/jobsubscribelist/">职位订阅器</a></p>
+          </div>
+        </li>
+        <li data-name="sns">
+          <div class="nav-title"><a href="https://sns.liepin.com/sns/snscontacts/">人脉<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://sns.liepin.com/sns/snscontacts/">职场人脉</a></p>
+            <p><a href="https://sns.liepin.com/sns/peopleyoumayknow/">人脉管理</a></p>
+            <p><a href="https://sns.liepin.com/sns/getcjoblist/">人脉职位</a></p>
+          </div>
+        </li>
+        <li data-name="resume">
+          <div class="nav-title"><a href="https://c.liepin.com/resume/getdefaultresume/">简历</a></div>
+        </li>
+        <li data-name="article">
+          <div class="nav-title"><a href="https://article.liepin.com/c/">社区</a></div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+
+<div class="wrap">
+  <nav class="tab-list">
+    <a href="javascript:;" class="active">我投递的职位</a>
+    <a href="https://c.liepin.com/job/favoritesjob/">我收藏的职位</a>
+    <a href="https://c.liepin.com/job/jobsubscribelist/">我订阅的职位</a>
+  </nav>
+  <div class="span span14 float-left">
+    <article class="detail-left">
+      <section class="list-bar clearfix">
+        <div class="status-box">
+          <div class="selectui" data-size="5" data-maxheight="200" data-dock="false">
+            <div class="selectui-head" style="width: 8.5em;">
+              <input type="hidden" name="" value="" autocomplete="off" data-ui="SelectUI">
+              <div class="selectui-result">全部状态</div>
+              <div class="selectui-drop" data-name=""></div>
+            </div>
+            <ul style="right: auto; height: auto; width: 102px;">
+               <li data-value="" data-selected="selected" class="active"><a href="https://c.liepin.com/apply/applylist">全部状态</a></li>
+               <li><a href="https://c.liepin.com/apply/applylist?status=0">已投递</a></li>
+               <li><a href="https://c.liepin.com/apply/applylist?status=1">已查看</a></li>
+               <li><a href="https://c.liepin.com/apply/applylist?status=3">邀请面试</a></li>
+               <li><a href="https://c.liepin.com/apply/applylist?status=2">暂不合适</a></li>
+             </ul>
+          </div>
+        </div>
+        <div class="myjob-num">
+          <span>我投递的职位</span><cite class="">1</cite>
+        </div>
+      </section>
+      <section class="job-list-display">
+        <ul>
+        
+          <li class="job-list-each " data-jobid="6166628" data-id="932743" job-kind="2" data-status="0" data-record="[{&quot;user_id&quot;:33408342,&quot;createtime&quot;:&quot;2016-09-22 14:36&quot;,&quot;apply_id&quot;:932743,&quot;jas_id&quot;:1949001,&quot;jas_status&quot;:&quot;0&quot;}]">
+             
+               	<i title="企业直招职位保证真实有效" class="icon icon-yellow-triangle"><b>企</b></i>
+               
+            <div class="sojob-item-main clearfix">
+            <a href="https://job.liepin.com/616_6166628/" target="_blank" class="job-info">
+                <h3 title="市场总监">
+                市场总监
+                </h3>
+                
+                <p title="21-28万_广州-萝岗区_本科及以上_5年经验" class="condition clearfix">
+                
+                  <span class="text-warning">21-28万</span>
+                
+                
+                  <span class="area">广州-萝岗区</span>
+                
+                
+                  <span class="edu">本科及以上</span>
+                
+                
+                  <span>5年经验</span>
+                
+                </p>
+                <p class="time-info clearfix">
+                  <time>投递于：2016-09-22 
+                  
+                  	
+                  
+                  </time>
+                </p>
+              </a>
+              
+            	    <div class="company-info">
+            		<p class="company-name">
+            	    <a title="公司广东华兰海电测科技股份有限公司广州分公司" href="https://company.liepin.com/8892480/" target="_blank">
+            	    广东华兰海电测科技股份有限公司广...
+            	    </a>
+            	    
+            	
+	             </p><div class="apply-progress">
+	               <div class="track-step  clearfix">
+	                 <cite class="s1">已投递</cite>
+	              	<cite class="s2">已查看</cite>
+	              	<cite class="s3">已反馈</cite>
+	               <div class="bubbles bubbles-inverse bubbles-medium bubbles-br bubbles-inverse-br bubbles-medium-br" data-active="true" style="z-index: 10; left: -19px; top: 52px; display: none;"><em class="bubble-arrow"></em><i class="bubble-arrow"></i><table><tbody><tr><td class="bubble-content"><style>#nodetpl_g_02618745249815104 .mypost-stage {  overflow: hidden;  position: relative;  padding: 0 5px 10px 10px;}#nodetpl_g_02618745249815104 .mypost-stage ul {  border-left: 1px #d4e3e7 solid;  margin: 0 0 0 15px;  padding: 10px 0 0 10px;  zoom: 1;}#nodetpl_g_02618745249815104 .mypost-stage li {  position: relative;  width: 340px;  padding: 5px 10px;  color: #666666;  line-height: 22px;  *zoom: 1;}#nodetpl_g_02618745249815104 .mypost-stage li .dot-box {  position: absolute;  width: 10px;  height: 10px;  background: #fff;  border: 1px #fff solid;  left: -17px;  top: 11px;}#nodetpl_g_02618745249815104 .mypost-stage li.last .dot-box {  padding-bottom: 65px;}#nodetpl_g_02618745249815104 .mypost-stage li.first .dot-box {  padding-top: 56px;  top: -44px;}#nodetpl_g_02618745249815104 .mypost-stage li.first .dot-box i {  top: auto;  bottom: 2px;}#nodetpl_g_02618745249815104 .mypost-stage li .dot-box i {  position: absolute;  width: 6px;  height: 6px;  top: 2px;  left: 2px;  -webkit-border-radius: 3px;  -moz-border-radius: 3px;  border-radius: 3px;  background: #1f84b7;  line-height: 0;  font-size: 0;}#nodetpl_g_02618745249815104 .mypost-stage li.tel .dot-box i {  background: #e75c00;}#nodetpl_g_02618745249815104 .mypost-stage li.tel p {  color: #e75c00;}#nodetpl_g_02618745249815104 .mypost-stage li.cur .dot-box i {  width: 10px;  height: 10px;  webkit-border-radius: 5px;  -moz-border-radius: 5px;  border-radius: 5px;}#nodetpl_g_02618745249815104 .mypost-stage li.cur .dot-box {  width: 14px;  height: 14px;  left: -18px;}#nodetpl_g_02618745249815104 .mypost-stage li.cur p {  font-weight: bold;}#nodetpl_g_02618745249815104 .mypost-stage li .stage {  position: absolute;  left: -80px;  top: 10px;  color: #267399;}#nodetpl_g_02618745249815104 .mypost-stage li.end .stage {  color: #000;}#nodetpl_g_02618745249815104 .tips {  color: #3d9ccc;  background-color: #dcf0fa;  padding: 0 10px;  height: 32px;  line-height: 32px;}</style><div id="nodetpl_g_02618745249815104">
+  <div class="mypost-stage"> 
+    <ul>
+      
+        
+          
+            <li class="
+              first tel
+              
+            ">
+              <span class="dot-box"><i></i></span>
+              <time>2016-09-22 14:36</time>
+              <p>
+                
+                您的简历投递成功
+                
+                
+                
+                
+              </p>
+            </li>
+          
+        
+      
+    </ul>
+  </div>
+</div></td></tr></tbody></table></div></div>
+	               <a href="javascript:;" class="icons16 icons16-delete delete-now" data-selector="apply-delete" style="display: none;"></a>
+                    </div>
+       	        
+              </div>
+            </div>
+          </li>
+          
+        </ul>
+        <div class="page-area"><div class="pagerbar"><a class="first disabled" href="javascript:;" title="首页"></a><a class="disabled" href="javascript:;">上一页</a><a class="current" href="javascript:;">1</a><a class="disabled" href="javascript:;">下一页</a><a class="last disabled" href="javascript:;" title="末页"></a><span class="addition">共1页<span class="redirect">跳转到<input class="pn" value="1" name="pn" type="text">页<a class="go" href="javascript:;" onclick="var $pn=this.parentNode.getElementsByTagName(&#39;input&#39;)[0].value||1;$pn=/[^\d]/g.test($pn)?0:$pn;$pn=Math.min(Math.max($pn, 1),1);location.href=&#39;/apply/applylist/?curPage=$pn$&#39;.replace(/\$pn\$/ig, $pn-1);return false;">确定</a></span></span></div></div>
+      </section>
+    </article>
+    <article class="recommend-job ">
+		        <h3 class="recommend-title"><span></span>推荐职位<a href="javascript:;" data-seletor="changeRJob">换一换</a></h3>
+		        <ul data-selector="recommendJobList">
+		        
+		          <li class="clearfix">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/633_6339198?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_1" target="_blank" title="数据运营岗">
+		              数据运营岗
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>诺爱保险代理有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-7万</span></label>
+		          </li>
+		        
+		          <li class="clearfix">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/459_4596950?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_2" target="_blank" title="教务老师">
+		              教务老师
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州咪哆教育信息咨询有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-8万</span></label>
+		          </li>
+		        
+		          <li class="clearfix">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/629_6298292?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_3" target="_blank" title="办公室文员">
+		              办公室文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州红森伺服电机有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>2-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/628_6288400?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_4" target="_blank" title="质检专员兼仓库文员">
+		              质检专员兼仓库文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州七全贸易有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-6万</span></label>
+		          </li>
+		        
+		          <li class="clearfix">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/640_6402003?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_5" target="_blank" title="采购跟单">
+		              采购跟单
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东伟帮服装实业有限公司&nbsp;|&nbsp;广州-荔湾区&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-6万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/637_6379644?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_6" target="_blank" title="区域物业管家">
+		              区域物业管家
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州三人行物业管理有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;3小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-10万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/606_6064020?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_7" target="_blank" title="理货员">
+		              理货员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州慈航医药有限公司&nbsp;|&nbsp;广州-白云区&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>2-4万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/622_6223204?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_8" target="_blank" title="行政前台文员">
+		              行政前台文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东宏鼎房地产投资发展集团&nbsp;|&nbsp;广州&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/627_6279510?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_9" target="_blank" title="办公室文员">
+		              办公室文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市盈之峰房地产代理有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/627_6279517?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_10" target="_blank" title="行政人事专员">
+		              行政人事专员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市盈之峰房地产代理有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/627_6279515?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_11" target="_blank" title="人力资源专员">
+		              人力资源专员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市盈之峰房地产代理有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/627_6279512?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_12" target="_blank" title="助理">
+		              助理
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市盈之峰房地产代理有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;4小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/614_6145888?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_13" target="_blank" title="仓库助理">
+		              仓库助理
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州正道科技有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>2-4万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/634_6343778?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_14" target="_blank" title="总经理助理">
+		              总经理助理
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东美喇健康管理有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-7万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/632_6327447?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_15" target="_blank" title="保险文员">
+		              保险文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东大昌行喜龙企业管理有限公司&nbsp;|&nbsp;广州-荔湾区&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/613_6134956?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_16" target="_blank" title="保洁员">
+		              保洁员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州熙辰服饰有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>2-4万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/585_5858964?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_17" target="_blank" title="试衣文员">
+		              试衣文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>G2000服装&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-7万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/584_5848847?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_18" target="_blank" title="就业经理">
+		              就业经理
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>青麦(上海)职业技能培训有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>10-12万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/629_6298821?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_19" target="_blank" title="签证主管/专员">
+		              签证主管/专员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州富力地产股份有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;5小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>面议</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/630_6309290?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_20" target="_blank" title="电工">
+		              电工
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市宏达钢管有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;6小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-6万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/639_6399378?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_21" target="_blank" title="后勤主管">
+		              后勤主管
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市增城万户来家居商场&nbsp;|&nbsp;广州&nbsp;|&nbsp;11小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>6-7万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/620_6206282?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_22" target="_blank" title="行政文员">
+		              行政文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>中金物联商品交易中心有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;18小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/621_6215357?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_23" target="_blank" title="行政专员">
+		              行政专员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>中金物联商品交易中心有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;18小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/585_5851804?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_24" target="_blank" title="数据员">
+		              数据员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市起秀信息科技有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;20小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-7万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/520_5206032?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_25" target="_blank" title="销售行政助理/内勤岗">
+		              销售行政助理/内勤岗
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州南宇保险代理有限公司&nbsp;|&nbsp;广州-越秀区&nbsp;|&nbsp;21小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>5-10万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/456_4568689?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_26" target="_blank" title="高级行政秘书">
+		              高级行政秘书
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东诚伯信息有限公司&nbsp;|&nbsp;广州&nbsp;|&nbsp;22小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-6万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/476_4764164?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_27" target="_blank" title="能源热线客服">
+		              能源热线客服
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东诚伯信息有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;22小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-6万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/606_6065538?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_28" target="_blank" title="邮轮旅游顾问">
+		              邮轮旅游顾问
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广东诚伯信息有限公司&nbsp;|&nbsp;广州-越秀区&nbsp;|&nbsp;22小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/639_6393216?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_29" target="_blank" title="文员">
+		              文员
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市贰零伍捌电子商务有限公司&nbsp;|&nbsp;广州-天河区&nbsp;|&nbsp;23小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>2-5万</span></label>
+		          </li>
+		        
+		          <li class="clearfix" style="display: none;">
+		            <div class="info">
+		              <a class="jobtitle" href="https://job.liepin.com/627_6276062?sfrom=recom-PC_APLIST_CH-A-supply_zn_0_0_0_30" target="_blank" title="行政助理">
+		              行政助理
+		              <i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i>
+		              </a>
+		              <p>广州市盈之峰房地产代理有限公司&nbsp;|&nbsp;广州-海珠区&nbsp;|&nbsp;23小时前</p>
+		            </div>
+		            <label class="muted">年薪：<span>4-5万</span></label>
+		          </li>
+		        
+		        </ul>
+		      </article>
+  </div>
+  <aside class="aside-qrcode float-right">
+    <div class="job-app">
+      <h3>应聘进展，实时推送！</h3>
+      <div class="app_box">
+        <img class="dingyue" src="../images/qrcode_app_applylist_c389ac4d.png" alt=""> 
+        </div>
+        <p>更可与HR/猎头直接在线沟通，<br>让求职更高效！</p>
+    </div>
+  </aside>
+</div>
+
+
+<footer id="footer-p-beta2">
+  <hr>
+  <div class="wrap">
+    <div class="copyright">
+      <div class="copy-side">
+        服务热线 (免长话费)<br><strong>400-6838-789</strong><br><small>工作日 9:00-19:00</small>
+      </div>
+      <div class="copy-main">
+        <div class="item">
+          <dl>
+            <dt>简介</dt>
+            <dd><a href="https://www.liepin.com/about/introduction.shtml" target="_blank" rel="nofollow">猎聘网简介</a></dd>
+            <dd><a href="https://www.liepin.com/about/productsandservices.shtml" target="_blank" rel="nofollow">产品服务</a></dd>
+            <dd><a href="https://www.liepin.com/about/innovation.shtml" target="_blank" rel="nofollow">创新优势</a></dd>
+            <dd><a href="https://www.liepin.com/about/weblink/" target="_blank" rel="nofollow">友情链接</a></dd>
+            <dd><a href="https://www.liepin.com/about/about_us.shtml" target="_blank" rel="nofollow">联系我们</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>帮助</dt>
+            <dd><a href="https://www.liepin.com/help/" target="_blank" rel="nofollow">经理人帮助</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/2/0" target="_blank" rel="nofollow">用户注册</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/3/0" target="_blank" rel="nofollow">关于您的简历</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/4/0" target="_blank" rel="nofollow">关于猎头</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/5/0" target="_blank" rel="nofollow">关于职位</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>共赢</dt>
+            <dd><a href="https://www.liepin.com/cooperation.shtml" target="_blank" rel="nofollow">网站合作</a></dd>
+            <dd><a href="https://www.liepin.com/user/agreement.shtml" target="_blank" rel="nofollow">用户协议</a></dd>
+            <dd><a href="https://www.liepin.com/sitemap.shtml" target="_blank" rel="nofollow">网站地图</a></dd>
+            <dd><a href="https://www.liepin.com/user/feedback/" target="_blank" rel="nofollow">意见反馈</a></dd>
+            <dd><a href="https://www.liepin.com/inshr/index.shtml" target="_blank" rel="nofollow">加入猎聘网</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>导航</dt>
+            <dd><a href="https://www.liepin.com/a/" target="_blank">全部招聘</a></dd>
+            <dd><a href="https://www.liepin.com/qiuzhi/" target="_blank">职位大全</a></dd>
+            <dd><a href="https://job.liepin.com/" target="_blank">招聘职位</a></dd>
+            <dd><a href="https://company.liepin.com/" target="_blank">企业名录</a></dd>
+            <dd><a href="https://www.liepin.com/citylist.shtml" target="_blank">城市列表</a></dd>
+          </dl>
+        </div>
+        <div class="item item-weibo">
+          <a href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"><i class="weibo"></i></a>
+          <p>猎聘微博</p>
+          <a class="btn-sina" href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"></a>
+        </div>
+        <div class="item item-apps">
+          <i class="mishu"></i>
+          <p>猎聘同道APP</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copy-footer">
+    <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备:11010502026763 </p>
+    <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+  </div>
+</footer>
+
+</body></html>

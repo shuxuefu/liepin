@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<!-- saved from url=(0066)https://c.liepin.com/apply/applySuccess/?job_id=6166628&job_kind=2 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>猎聘猎头网:Liepin.com _中国职业经理人首选职业平台!</title>
+<meta name="keywords" content="猎头网,猎聘网,猎头,招聘">
+<meta name="description" content="猎聘网是国内最专业的高端人才招聘网站，凭借其创新的产品模型及独有服务模式为企业、猎头和职场精英之间打造了一个高端人才的互动招聘平台。数万名专业猎头顾问为企业和求职者之间架起沟通桥梁，为职场精英推荐高薪职位、规划职业发展。16项隐私保护规避求职者求职风险，数百万高端精英会员库，助力企业发展需求。">
+<!--#set var='compatible' value=''-->
+<link rel="icon" href="https://concat.lietou-static.com/dev/core/pc/revs/v3/static/images/favicon_1c83d380.ico" type="image/x-icon">
+
+<script type="text/javascript" src="../js/jquery1.42.min.js"></script>
+
+<link rel="stylesheet" href="../css/common_1120b351.css" "="">
+<link rel="stylesheet" href="../css/header_14a31879.css" "="">
+<link rel="stylesheet" href="../css/index_3520b75a.css" "="">
+<link rel="stylesheet" href="../css/apply.applysuccess_675ac2d8.css" "="">
+<link rel="stylesheet" href="../css/footer_9e37f82a.css" "="">
+
+
+</head>
+<body data-navbar="job">
+
+<header id="header-c-beta2">
+  <div class="header">
+    <div class="wrap">
+      <div class="logo">
+        <a href="https://www.liepin.com/"><img alt="猎聘网logo" class="pngfix" src="../images/logo_e062b0a3.png" width="110" height="40"><em><i class="icons16 icons16-home-white" title="首页"></i></em></a>
+      </div>
+      <div class="quick-menu"><div class="quick-menu-logined-c">
+	  <style>
+	  #NTGUID__1 .link-menu-list{    position: relative;  }
+	  #NTGUID__1 .drop-menu-single,#NTGUID__1 .drop-menu-group{    display: inline-block;    vertical-align: top;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips{    position: absolute;    top: 45px;    right: -5px;    display: none;    color: #333;  }
+	  #NTGUID__1 .drop-menu-group .drop-tips a{    color: #00528c;    text-decoration: none;  }#NTGUID__1 .drop-menu-group .drop-tips a:hover,#NTGUID__1 .drop-menu-group .drop-tips a:focus{    color: #1d81c7;    text-decoration: underline;  }#NTGUID__1 .drop-menu-group .drop-tips .drop-loading{    width: 300px;    text-align: center;  }#NTGUID__1 .drop-menu-group-active .drop-tips{    display: block;  }#NTGUID__1 .drop-menu-single .link-drop-menu,#NTGUID__1 .drop-menu-group .link-drop-menu{    display: inline-block;    vertical-align: top;    margin-top: 5px;    padding: 0 12px;    height: 45px;    line-height: 45px;    border-radius: 2px 2px 0 0;    position: relative;  }#NTGUID__1 .drop-menu-group-active .link-drop-menu{    background-color: #737b80;  }#NTGUID__1 .drop-menu-group .link-drop-menu .minixFace{    vertical-align: middle;  }#NTGUID__1 .drop-menu-group .link-drop-menu i.icons16-new-circle{    position: absolute;    right: 5px;    top: 8px;  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number{    position: absolute;    left: 28px;    top: 14px;    display: inline-block;    height: 15px;    line-height: 15px;    font-family: "Arial";    padding:0 3px;    background-color: #e60012;    color: #fff;    box-shadow:1px 1px 1px rgba(0,0,0,.2);  }#NTGUID__1 .drop-menu-group .link-drop-menu em.notice-number i{    position: absolute;    left: -10px;    top: 3px;    display: block;    border: 5px solid transparent;    _border: 5px dotted transparent;    border-right: 5px solid #e60012;    font-size:0;    line-height:0;  }</style><div id="NTGUID__1">
+  <div class="link-menu-list">
+  <script type="text/javascript">
+  	$(document).ready(function(){   
+     $(".drop-menu-group").mouseover(function(){
+          $(".drop-tips").show();
+       
+      });
+   
+     $(".drop-menu-group").mouseout(function(){
+          $(".drop-tips").hide();
+         
+      });
+})
+  </script>
+   <span data-selector="drop-menu-profile" class="drop-menu-group">
+      <a title="账号设置" href="javascript:;" class="link-drop-menu"><img class="minixFace" src="../images/55557f3b28ee44a8919620ce01a.gif" alt="个人设置"></a>
+      
+      <div class="drop-tips" data-inited="inited">
+	  
+	  <style>
+	  #NTGUID__4{     width: 300px;    border: 5px solid #737b80;    background-color: #fff;    text-align: left;    line-height: 20px;    border-radius: 3px;  }
+	  #NTGUID__4 .popup-title{    font-size: 14px;    color: #fff;    background-color: #737b80;    padding: 4px 10px 5px;    font-weight: bold;  }
+	  #NTGUID__4 .popup-title .float-right .white{font-weight:normal; color:#fff; font-size:12px;}
+	  #NTGUID__4 .popup-content table{ width: 100%; }
+	  #NTGUID__4 .popup-content table tr:hover{ background-color: #f0f0f0; }
+	  #NTGUID__4 .popup-content table tr td{ padding: 4px 0; border-bottom: 1px dotted #ccc; }
+	  #NTGUID__4 .popup-content table tr:last-of-type td{ border-bottom: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-icon{ width: 50px; text-align: center; }
+	  #NTGUID__4 .popup-content table tr td.data-icon .miniFace{ vertical-align: middle; }#NTGUID__4 .popup-content table tr td.data-icon .icons24{ margin: 0; }
+	  #NTGUID__4 .popup-content table tr td.data-menu{ width: 52px; text-align: right; padding-right: 10px; }
+	  #NTGUID__4 .popup-content table tr td .miniFace{ margin: 6px 0; }
+	  #NTGUID__4 .popup-content table tr td a{ display: block; position: relative; color: #454545 !important; }
+	  #NTGUID__4 .popup-content table tr.photo td a{display:inline-block; *display:inline; *zoom:1;}
+	  #NTGUID__4 .popup-content table tr td.data-menu a{ color: #0077b3 !important; }
+	  #NTGUID__4 .popup-content table tr td a:hover{ text-decoration: none !important; }
+	  #NTGUID__4 .popup-content table tr td a em{ position: absolute; right: 10px; color: #0077b3; }</style>
+      <div id="NTGUID__4" style=" padding:0;">
+  <p class="popup-title"><a href="https://passport.liepin.com/logout/" class="float-right"><span class="white">退出</span></a>帐号设置</p>
+  <div class="popup-content" >
+    <table>
+      <tbody>
+        <tr class="photo">
+          <td class="data-icon"><a href="https://c.liepin.com/resume/getdefaultresume/"><img src="../images/55557f3b28ee44a8919620ce01a(1).gif" class="miniFace"></a></td>
+          <td>
+            <a href="https://c.liepin.com/resume/getdefaultresume/">
+            舒学福
+            </a>
+            
+              <a href="https://c.liepin.com/goldcard/home/" class="icons16 icons16-vip-gray"></a>
+            
+          </td>
+          <td class="data-menu"><a href="https://sns.liepin.com/main/">个人主页</a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-vip"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/goldcard/home/">金卡服务<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-proccessing"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/apply/applylist/">求职进展<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-favorite"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/favoritesjob/">职位收藏<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-subscribe"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/job/jobsubscribelist/">订阅职位<em>查看</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-profile"></i></td>
+          <td colspan="2"><a href="https://c.liepin.com/profile/getsecret/">帐号隐私<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-safe"></i></td>
+          <td colspan="2"><a href="https://passport.liepin.com/secret/">帐号安全<em>修改</em></a></td>
+        </tr>
+        <tr>
+          <td class="data-icon"><i class="icons24 icons24-settings-help"></i></td>
+          <td colspan="2"><a href="https://www.liepin.com/help/">获得帮助<em>查看</em></a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div></div>
+    </span>
+  </div>
+</div>
+</div></div>
+    </div>
+  </div>
+  <nav>
+    <div class="wrap">
+      <ul>
+        <li data-name="home">
+          <div class="nav-title"><a href="https://c.liepin.com/">首页</a></div>
+        </li>
+        <li data-name="subsite">
+          <div class="nav-title"><a href="javascript:;">行业<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://www.liepin.com/it/">IT·互联网</a></p>
+            <p><a href="https://www.liepin.com/realestate/">房地产</a></p>
+            <p><a href="https://www.liepin.com/financial/">金融</a></p>
+            <p><a href="https://www.liepin.com/consumergoods/">消费品</a></p>
+            <p><a href="https://www.liepin.com/automobile/">汽车·制造</a></p>
+            <p><a href="https://www.liepin.com/medicine/">医疗·化工</a></p>
+          </div>
+        </li>
+        <li data-name="job" class="active">
+          <div class="nav-title"><a href="https://www.liepin.com/zhaopin/">职位<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://www.liepin.com/zhaopin/">搜索职位</a></p>
+            <p><a href="https://c.liepin.com/apply/applylist/">我投递的职位</a></p>
+            <p><a href="https://c.liepin.com/job/favoritesjob/">我收藏的职位</a></p>
+            <p><a href="https://c.liepin.com/job/jobsubscribelist/">职位订阅器</a></p>
+          </div>
+        </li>
+        <li data-name="sns">
+          <div class="nav-title"><a href="https://sns.liepin.com/sns/snscontacts/">人脉<sub></sub></a></div>
+          <div class="sub-nav">
+            <p><a href="https://sns.liepin.com/sns/snscontacts/">职场人脉</a></p>
+            <p><a href="https://sns.liepin.com/sns/peopleyoumayknow/">人脉管理</a></p>
+            <p><a href="https://sns.liepin.com/sns/getcjoblist/">人脉职位</a></p>
+          </div>
+        </li>
+        <li data-name="resume">
+          <div class="nav-title"><a href="https://c.liepin.com/resume/getdefaultresume/">简历</a></div>
+        </li>
+        <li data-name="article">
+          <div class="nav-title"><a href="https://article.liepin.com/c/">社区</a></div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
+<div class="apply-success">
+	<div class="wrap">
+		<dl class="resume-success clearfix">
+			<dt>
+	        	<i class="icon-success2"></i>
+	        	<p class="resume-success3">投递成功！
+	        	
+	        	</p>
+			</dt>
+				
+	       	
+	    </dl>
+    <style>#nodetpl_g_016612100283492182 .main {  border: 1px solid #e6e6e6;  background: #fff;  padding: 20px 30px 10px 30px;}#nodetpl_g_016612100283492182 h2 {  margin: 0;  padding: 0;  color: #4ea321;  font-size: 14px;}#nodetpl_g_016612100283492182 h3 {  font-size: 16px;  color: #e75c00;}#nodetpl_g_016612100283492182 .btn-bar {  padding-top: 15px;}#nodetpl_g_016612100283492182 .line {  height: 41px;  overflow: hidden;  background: url(//concat.lietou-static.com/dev/c/pc/v3/build/images/pages/apply-success/line.png) repeat-x 0px center;}#nodetpl_g_016612100283492182 .job-list {  border-collapse: collapse;  text-align: left;  border: 1px solid #fff;  border-spacing: 0;  width: 100%;}#nodetpl_g_016612100283492182 .job-list td {  padding: 15px 0px 15px 0px;  line-height: 22px;}#nodetpl_g_016612100283492182 .job-list tr {  background: url(//concat.lietou-static.com/dev/c/pc/v3/build/images/pages/apply-success/line.png) repeat-x 0px bottom;}#nodetpl_g_016612100283492182 .job-list .title {  font-size: 16px;  font-weight: bold;}#nodetpl_g_016612100283492182 .job-list .money {  font-size: 20px;  font-family: Arial;}#nodetpl_g_016612100283492182 .job-list .text-right {  text-align: right;}#nodetpl_g_016612100283492182 .btn-orange {  width: 238px;  height: 48px;  text-decoration: none;  display: inline-block;  cursor: pointer;  *display: inline;  *zoom: 1;  line-height: 48px;  background: url(//concat.lietou-static.com/dev/c/pc/v3/build/images/pages/apply-success/btn_orange_level.png) no-repeat;  color: #fff;  font-size: 20px;  font-family: "Microsoft YaHei";}#nodetpl_g_016612100283492182 .job-type-flag {  background-color: #f8b145;  font-family: "Simsun";  font-size: 12px;  font-weight: normal;  color: #fff;  display: inline-block;  padding: 0 2px;  height: 16px;  line-height: 16px;  margin: 0 5px;  border-radius: 1px;}</style><div id="nodetpl_g_016612100283492182">
+  
+  	<div class="main">
+      
+        <table align="center" width="540" class="example">
+          <tbody><tr>
+            <td><img src="../images/goldcard-img_613c454c.png"></td>
+            <td align="center">
+              <h3>升级金卡会员，获得应聘优先特权！</h3>
+              <p>应聘信息及简历<strong>持续靠前显示</strong></p>
+              <p class="btn-bar">
+              	<a class="btn-orange" href="https://c.liepin.com/goldcard/home/?mscid=c_a1_066">立即升级金卡会员</a>
+              </p>
+            </td>
+          </tr>     
+        </tbody></table>
+      
+      
+      <div class="line"></div>
+      <h2>以下职位符合您的职业意向：</h2>   
+        <table class="job-list">
+          
+            <tbody><tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/611_6118040?sfrom=recom-PC_JD-recom_1" target="_blank">营销总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州巢恩商品信息咨询有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-番禺区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-20</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>30-66万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/619_6194386?sfrom=recom-PC_JD-recom_2" target="_blank">市场部经理<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东耶萨智能科技股份有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-24万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/594_5944960?sfrom=recom-PC_JD-recom_3" target="_blank">市场推广经理<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>乐视控股(北京)有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-20</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>面议</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/445_4450572?sfrom=recom-PC_JD-recom_4" target="_blank">南方片区营销总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>苏宁置业集团有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-13</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>50-100万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/607_6074994?sfrom=recom-PC_JD-recom_5" target="_blank">大客户事业部市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东广业开元科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-20</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/618_6186939?sfrom=recom-PC_JD-recom_6" target="_blank">市场经理<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东耶萨智能科技股份有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>18-24万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/601_6019977?sfrom=recom-PC_JD-recom_7" target="_blank">市场部经理/企划经理<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州景联信息科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-18万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/582_5822990?sfrom=recom-PC_JD-recom_8" target="_blank">市场营销总监 品牌企划总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州和滨信息科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/617_6176751?sfrom=recom-PC_JD-recom_9" target="_blank">市场营销总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东任我通汽车云智能科技股份有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>顺德</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>24-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/608_6084986?sfrom=recom-PC_JD-recom_10" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州市美姿贺化妆品有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-20</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-18万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/483_4833717?sfrom=recom-PC_JD-recom_11" target="_blank">市场总监（彩妆）<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州欧博化妆品有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-白云区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>18-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/463_4635162?sfrom=recom-PC_JD-recom_12" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>东莞市远峰科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广东省</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-07-27</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>20-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/617_6177036?sfrom=recom-PC_JD-recom_13" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州市贝聊信息科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>18-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/599_5991076?sfrom=recom-PC_JD-recom_14" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>深圳市寒武纪智能科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>10-18万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/615_6150760?sfrom=recom-PC_JD-recom_15" target="_blank">市场合作主管<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州荔枝网络有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-越秀区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-24万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/620_6204376?sfrom=recom-PC_JD-recom_16" target="_blank">营销总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东万事泰集团有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-番禺区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>面议</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/572_5722058?sfrom=recom-PC_JD-recom_17" target="_blank">品牌企划总监 市场营销总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州和滨信息科技有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>12-30万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/617_6178039?sfrom=recom-PC_JD-recom_18" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东太阳神集团有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-天河区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>面议</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/623_6236093?sfrom=recom-PC_JD-recom_19" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广东钱途互联商务服务有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-22</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>24-36万</strong></span></p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <p><a class="title" href="https://job.liepin.com/624_6249883?sfrom=recom-PC_JD-recom_20" target="_blank">市场总监<i title="企业直招职位保证真实有效" class="job-type-flag">企业直招</i></a></p>
+                <p>广州亿航智能技术有限公司</p>
+              </td>
+              <td width="185">
+                <p>&nbsp;</p>
+                <p><span class="gray">地点：</span>广州-萝岗区</p>
+              </td>
+              <td width="180">
+                <p>&nbsp;</p>
+                <p><span class="gray">发布日期：</span>2016-09-21</p>
+              </td>
+              <td width="180" class="text-right">
+                <p>&nbsp;</p>
+                <p><span class="gray">年薪：</span><span class="orange money"><strong>18-30万</strong></span></p>
+              </td>
+            </tr>
+                
+        </tbody></table>
+      
+    </div>
+  
+</div></div>
+</div>
+
+
+<footer id="footer-p-beta2">
+  <hr>
+  <div class="wrap">
+    <div class="copyright">
+      <div class="copy-side">
+        服务热线 (免长话费)<br><strong>400-6838-789</strong><br><small>工作日 9:00-19:00</small>
+      </div>
+      <div class="copy-main">
+        <div class="item">
+          <dl>
+            <dt>简介</dt>
+            <dd><a href="https://www.liepin.com/about/introduction.shtml" target="_blank" rel="nofollow">猎聘网简介</a></dd>
+            <dd><a href="https://www.liepin.com/about/productsandservices.shtml" target="_blank" rel="nofollow">产品服务</a></dd>
+            <dd><a href="https://www.liepin.com/about/innovation.shtml" target="_blank" rel="nofollow">创新优势</a></dd>
+            <dd><a href="https://www.liepin.com/about/weblink/" target="_blank" rel="nofollow">友情链接</a></dd>
+            <dd><a href="https://www.liepin.com/about/about_us.shtml" target="_blank" rel="nofollow">联系我们</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>帮助</dt>
+            <dd><a href="https://www.liepin.com/help/" target="_blank" rel="nofollow">经理人帮助</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/2/0" target="_blank" rel="nofollow">用户注册</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/3/0" target="_blank" rel="nofollow">关于您的简历</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/4/0" target="_blank" rel="nofollow">关于猎头</a></dd>
+            <dd><a href="https://www.liepin.com/help/itemlist/5/0" target="_blank" rel="nofollow">关于职位</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>共赢</dt>
+            <dd><a href="https://www.liepin.com/cooperation.shtml" target="_blank" rel="nofollow">网站合作</a></dd>
+            <dd><a href="https://www.liepin.com/user/agreement.shtml" target="_blank" rel="nofollow">用户协议</a></dd>
+            <dd><a href="https://www.liepin.com/sitemap.shtml" target="_blank" rel="nofollow">网站地图</a></dd>
+            <dd><a href="https://www.liepin.com/user/feedback/" target="_blank" rel="nofollow">意见反馈</a></dd>
+            <dd><a href="https://www.liepin.com/inshr/index.shtml" target="_blank" rel="nofollow">加入猎聘网</a></dd>
+          </dl>
+        </div>
+        <div class="item">
+          <dl>
+            <dt>导航</dt>
+            <dd><a href="https://www.liepin.com/a/" target="_blank">全部招聘</a></dd>
+            <dd><a href="https://www.liepin.com/qiuzhi/" target="_blank">职位大全</a></dd>
+            <dd><a href="https://job.liepin.com/" target="_blank">招聘职位</a></dd>
+            <dd><a href="https://company.liepin.com/" target="_blank">企业名录</a></dd>
+            <dd><a href="https://www.liepin.com/citylist.shtml" target="_blank">城市列表</a></dd>
+          </dl>
+        </div>
+        <div class="item item-weibo">
+          <a href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"><i class="weibo"></i></a>
+          <p>猎聘微博</p>
+          <a class="btn-sina" href="http://weibo.com/lietouwang" target="_blank" rel="nofollow"></a>
+        </div>
+        <div class="item item-apps">
+          <i class="mishu"></i>
+          <p>猎聘同道APP</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copy-footer">
+    <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备:11010502026763 </p>
+    <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+  </div>
+</footer>
+
+</body></html>

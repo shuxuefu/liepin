@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>修改账户信息|控制面板|猎聘通|最大的中文高端招聘社区</title>
+<!--  -->
+<meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
+<link rel="icon" href="https://concat.lietou-static.com/dev/core/pc/revs/v3/static/images/favicon_1c83d380.ico" type="image/x-icon">
+<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+<script src="../js/common_538a1a2b.js"></script>
+<script src="../js/options.js"></script>
+<link rel="stylesheet" href="../css/index_cc72a041.css" "="">
+<link rel="stylesheet" href="../css/common_d958e54c.css" "="">
+<link rel="stylesheet" href="../css/options.css">
+</head>
+
+
+<body id="usere-editUsereProfile" data-navbar="control">
+<!--  -->
+<header id="header">
+  <!-- 导航条上方的欢迎信息和提示 -->
+  <div class="head">
+    <div class="wrap options">
+       <span class="option-item user-welcome" data-selector="user-welcome">您好，广州红叶网络科技有限公司</span>
+       <div class="option-item setting relative">
+         <a class="system-setting" href="javascript:;">
+          &gt;
+           <span class="text-middle">系统设置</span>
+         </a>
+         <ul class="animated fade-in">
+           <li data-selector="account">
+             <a href="https://lpt.liepin.com/usere/edituser/">
+              &gt;
+               <span class="text-middle">修改账户信息</span>
+             </a>
+           </li>
+           <li data-selector="resources">
+             <a href="https://lpt.liepin.com/lptresourcelog/showresourcelist/?is_first=0">
+              &gt;
+               <span class="text-middle">资源收支明细</span>
+             </a>
+           </li>
+           <li data-selector="subaccount">
+             <a href="https://lpt.liepin.com/account/showaccountlist/">
+             &gt;
+               <span class="text-middle">管理子账号</span>
+             </a>
+           </li>
+           <li data-selector="branches">
+             <a href="https://lpt.liepin.com/org/showorglist/">
+              &gt;
+               <span class="text-middle">分支机构</span>
+             </a>
+           </li>
+           <li data-selector="company">
+             <a href="https://lpt.liepin.com/usere/editusere/">
+             &gt;
+               <span class="text-middle">企业主页</span>
+             </a>
+           </li>
+           <li data-selector="contract">
+             <a href="https://lpt.liepin.com/privilege/showprivilegelist/">
+              &gt;
+               <span class="text-middle">合同列表</span>
+             </a>
+           </li>
+         </ul>
+       </div>
+       <a class="option-item exit" href="https://passport.liepin.com/logout">
+        &gt;
+         <span class="text-middle">安全退出</span>
+       </a>
+     </div>
+  </div>
+  <!-- 导航条选项 -->
+  <div class="navbar">
+    <div class="wrap">
+      <!-- logo和系统类型 -->
+      <div class="system">
+        <!-- logo -->
+        <a class="logo" href="https://lpt.liepin.com/">
+          <img alt="" src="../images/logo_ce2f7a92.png">
+        </a>
+        <!-- 系统类型选择 -->
+        <div class="system-type switch relative" data-selector="system-type">
+          <!-- 目前系统类型图标 -->
+          <div class="type">
+            <i class="type-img"></i>
+            <i class="downarrow-img"></i>
+          </div>
+         
+        </div>
+      </div>
+      <!-- 导航条中各种选项 -->
+      <nav>
+        <ul class="nav-items float-left">
+          <li data-name="home">
+            <a href="https://lpt.liepin.com/">首页</a>
+          </li>
+          <li data-name="publish">
+            <a href="https://lpt.liepin.com/ejob/editejob4public/">发职位</a>
+          </li>
+          <li data-name="soresume">
+            <a href="https://lpt.liepin.com/resume/socondition/">找简历</a>
+          </li>
+          <li data-name="job">
+            <a href="https://lpt.liepin.com/ejob/showpublishejoblist/">职位管理</a>
+          </li>
+          <li data-name="resume">
+            <a href="https://lpt.liepin.com/apply/resume/showrecvresumelist/?kind=1">简历管理</a>
+          </li>
+          <li data-name="msk">
+            <a href="https://msk.liepin.com/">RPO+<i class="beta"></i></a>
+          </li>
+          <li data-name="salary-report">
+            <a href="https://lpt.liepin.com/salaryreport/getlist">薪酬报告</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+<div class="wrap">
+	
+
+
+<section class="submenu clearfix">
+	<ul class="tabs clearfix">
+	      	<li><a class="active" href="https://lpt.liepin.com/usere/edituser/">修改账户信息</a></li>
+	
+		    <li><a href="https://lpt.liepin.com/lptresourcelog/showresourcelist/?is_first=0">资源收支明细</a></li>
+	
+	      	
+			<li><a href="https://lpt.liepin.com/account/showaccountlist/">管理子账号</a></li>
+			
+	
+	      	
+		    <li><a href="https://lpt.liepin.com/org/showorglist/">分支机构</a></li>
+		    
+		     
+			<li><a href="https://lpt.liepin.com/usere/editusere/">企业主页</a></li>
+			
+	      	
+		    <li><a href="https://lpt.liepin.com/privilege/showprivilegelist/">合同列表</a></li>
+		    
+	</ul>
+</section>
+  <section class="board tabs-card clearfix" data-selector="main-box">
+    <form lt-plugins-valid="0.13689764376493596" class="horizontal" data-selector="form" method="post" action="/usere/saveuser.json">
+    	<input name="user_id" value="33408786" type="hidden">
+			<table class="table table-noborder table-form msg-table">
+				<tbody>
+					<tr>
+						<th width="100">登录名</th>
+						<td width="580">
+							<span class="user-info">广州红叶网络科技有限公司</span>&nbsp;&nbsp;<a target="_blank" href="https://passport.liepin.com/secret/?p=name">修改登录名</a>
+						</td>
+					</tr>
+					<tr>
+						<th>密码</th>
+						<td>
+							<span data-selector="password" class="user-info">******</span>&nbsp;&nbsp;<a target="_blank" href="https://passport.liepin.com/secret/?p=password">修改密码</a>
+						</td>
+					</tr>
+					<tr>
+						<th>姓名</th>
+						<td>
+							<input class="text span6" name="e_linkman" placeholder="或称谓 如 王华 李先生" validate-title="姓名" validate-rules="[['required','请填写$'],['length',{'max':64},'$1不能$2$3个字']]" type="text">
+						</td>
+					</tr>
+					<tr>
+						<th>性别</th>
+						<td>
+							
+							<label>
+                            	<input autocomplete="off" style="display: none;" value="男" name="e_linkman_sex" class="radio" type="radio">
+                           		 &nbsp;先生
+                            </label>&nbsp;
+							<label>
+                            	<input autocomplete="off" style="display: none;" value="女" name="e_linkman_sex" class="radio" checked="checked" type="radio">
+                               &nbsp;女士
+                             </label>
+							
+						</td>
+					</tr>
+					<tr>
+						<th>职位</th>
+						<td>
+							<input class="text span6" name="e_linkman_title" validate-title="职位" validate-rules="[['required','请填写$'],['length',{'max':60},'$1不能$2$3个字']]" type="text">
+						</td>
+					</tr>
+
+					<tr>
+						
+							<!-- 是管理员单走逻辑 -->
+							
+							<!-- 未验证过手机 -->
+							<th>手机号</th>
+							<td>
+							  <span class="muted user-info" data-selector="phone">未填写</span>&nbsp;&nbsp;<button type="button" class="btn btn-primary" data-selector="modify-phone">验证手机号</button>
+							</td>
+							
+						
+					</tr>
+					
+					<tr>
+						<th>头像</th>
+						<td>
+							<img class="normalFace" src="../images/55555f5128ee44a891961a1902c.gif">
+							<a data-selector="link-upload-face" href="javascript:;" class="btn btn-light btn-small">上传 </a>
+						</td>
+					</tr>
+					<tr>
+						<th></th>
+						<td>
+							<input class="btn btn-large btn-primary btn-save" value="更新" type="submit">
+						</td>
+					</tr>
+					
+					<tr>
+						<th>接收简历邮箱</th>
+						<td>
+							 415645415@qq.com &nbsp;
+							 <a href="javascript:;" data-selector="edit-email">修改</a>
+						</td>
+					</tr>
+					
+				</tbody>
+			</table>
+  </form></section>
+</div>
+<!--  -->
+<footer id="footer" class="wrap">
+  <section class="float-left copy-left">
+    <div class="tel">
+      <p>服务热线</p>
+      <span>400-6838-789 或 010-56905000</span>
+    </div>
+    <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备11010502026763</p>
+    <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+  </section>
+  <ul class="float-right copy-right">
+    <li>
+      <p><a href="https://www.liepin.com/about/introduction.shtml" target="_blank">猎聘网简介</a></p>
+      <p><a href="https://www.liepin.com/inshr/index.shtml" target="_blank">加入猎聘网</a></p>
+      <p><a href="https://www.liepin.com/about/innovation.shtml" target="_blank">创新优势</a></p>
+      <p><a href="https://www.liepin.com/user/agreement.shtml" target="_blank">用户协议</a></p>
+    </li>
+    <li>
+      <p><a href="https://www.liepin.com/about/mediareports.shtml" target="_blank">媒体报道</a></p>
+      <p><a href="https://www.liepin.com/cooperation.shtml" target="_blank">网站合作</a></p>
+      <p><a href="https://www.liepin.com/sitemap.shtml" target="_blank">网站地图</a></p>
+    </li>
+    <li>
+      <p><a href="https://www.liepin.com/about/about_us.shtml" target="_blank">联系我们</a></p>
+      <p><a href="https://www.liepin.com/user/feedback/" target="_blank">意见反馈</a></p>
+    </li>
+  </ul>
+</footer>
+
+
+
+
+<script type="text/javascript">
+  var $CONFIG = {
+  		e_telcheckflag : false
+  };
+  FeLoader.get('//concat.lietou-static.com/dev/lpt/pc/revs/v3/build/js/pages/options.account_d93ee64b.js');
+</script>
+
+</body></html>

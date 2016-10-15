@@ -1,0 +1,32 @@
+package com.liepin.liepin.dao.impl;
+
+import com.liepin.liepin.dao.ProvinceDao;
+import com.liepin.liepin.pojo.Province;
+
+public class ProvinceDaoImpl implements ProvinceDao {
+
+	@Override
+	public Province get(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void save(Province entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(Province entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Province entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

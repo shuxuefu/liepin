@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>发布职位|猎聘通|最大的中文高端招聘社区</title>
+<!--#set var='compatible' value=''-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
+<link rel="icon" href="https://concat.lietou-static.com/core/pc/revs/images/common/favicon_1c83d380.ico" type="image/x-icon">
+<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+
+<link href="../css/common_6add963a.css" rel="stylesheet" type="text/css">
+<link href="../css/public_4d210cc6.css" rel="stylesheet" type="text/css">
+<link href="../css/header_05154eff.css" rel="stylesheet" type="text/css">
+
+</head>
+<body id="ejob-editEjob4Public" data-navbar="publish">
+	
+	
+
+<header id="header">
+  <!-- 导航条上方的欢迎信息和提示 -->
+  <div class="head">
+    <div class="wrap options">
+       <span class="option-item user-welcome" data-selector="user-welcome">您好，广州红叶网络科技有限公司</span>
+       <div class="option-item setting relative">
+         <a class="system-setting" href="javascript:;">
+          &gt;
+           <span class="text-middle">系统设置</span>
+         </a>
+         <ul class="animated fade-in">
+           <li data-selector="account">
+             <a href="https://lpt.liepin.com/usere/edituser/">
+              &gt;
+               <span class="text-middle">修改账户信息</span>
+             </a>
+           </li>
+           <li data-selector="resources">
+             <a href="https://lpt.liepin.com/lptresourcelog/showresourcelist/?is_first=0">
+              &gt;
+               <span class="text-middle">资源收支明细</span>
+             </a>
+           </li>
+           <li data-selector="subaccount">
+             <a href="https://lpt.liepin.com/account/showaccountlist/">
+             &gt;
+               <span class="text-middle">管理子账号</span>
+             </a>
+           </li>
+           <li data-selector="branches">
+             <a href="https://lpt.liepin.com/org/showorglist/">
+              &gt;
+               <span class="text-middle">分支机构</span>
+             </a>
+           </li>
+           <li data-selector="company">
+             <a href="https://lpt.liepin.com/usere/editusere/">
+             &gt;
+               <span class="text-middle">企业主页</span>
+             </a>
+           </li>
+           <li data-selector="contract">
+             <a href="https://lpt.liepin.com/privilege/showprivilegelist/">
+              &gt;
+               <span class="text-middle">合同列表</span>
+             </a>
+           </li>
+         </ul>
+       </div>
+       <a class="option-item exit" href="https://passport.liepin.com/logout">
+        &gt;
+         <span class="text-middle">安全退出</span>
+       </a>
+     </div>
+  </div>
+  <!-- 导航条选项 -->
+  <div class="navbar">
+    <div class="wrap">
+      <!-- logo和系统类型 -->
+      <div class="system">
+        <!-- logo -->
+        <a class="logo" href="https://lpt.liepin.com/">
+          <img alt="" src="../images/logo_ce2f7a92.png">
+        </a>
+        <!-- 系统类型选择 -->
+        
+      </div>
+      <!-- 导航条中各种选项 -->
+      <nav>
+        <ul class="nav-items float-left">
+          <li data-name="home">
+            <a href="https://lpt.liepin.com/">首页</a>
+          </li>
+          <li class="active" data-name="publish">
+            <a href="https://lpt.liepin.com/ejob/editejob4public/">发职位</a>
+          </li>
+          <li data-name="soresume">
+            <a href="https://lpt.liepin.com/resume/socondition/">找简历</a>
+          </li>
+          <li data-name="job">
+            <a href="https://lpt.liepin.com/ejob/showpublishejoblist/">职位管理</a>
+          </li>
+          <li data-name="resume">
+            <a href="https://lpt.liepin.com/apply/resume/showrecvresumelist/?kind=1">简历管理</a>
+          </li>
+          <li data-name="msk">
+            <a href="https://msk.liepin.com/">RPO+<i class="beta"></i></a>
+          </li>
+          <li data-name="salary-report">
+            <a href="https://lpt.liepin.com/salaryreport/getlist">薪酬报告</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+	<div class="wrap">
+		<div class="control-box">
+			<form lt-plugins-valid="0.9394674260249649" method="post" action="/ejob/saveejob4public.json" class="horizontal">
+				<input name="ejob_id" value="" type="hidden">
+				<input name="default_email" value="415645415@qq.com" type="hidden">
+				<input data-selector="status" name="actionType" value="" type="hidden"> <input name="ejob_lv" value="1" type="hidden"> <input name="lea_createtime" value="20160924001853" type="hidden">
+				<input name="ejob_status_req" value="" type="hidden">
+				<input name="" data-selector="companyName" value="广州红叶网络科技有限公司" type="hidden"> <input name="ejobCostCount" value="" type="hidden"> <input name="cvCostCount" value="" type="hidden"> <input name="ejob_token" value="a50d1997762bd2b6ae86bf256d221264" type="hidden"> <input name="isRtsFreeEjob" value="false" type="hidden">
+
+				<div class="box-title">
+					<div class="additional">
+						<span class="help-required">*</span>为必填项
+					</div>
+					
+					<h2>
+						职位发布 <span>您可同时运作 <strong data-selector="ejobMaxCnt">0</strong>
+							个职位，当前还可以发布 <strong data-selector="ejobPublish">0</strong>
+							个职位，职位有效期 <strong>0</strong> 天
+						</span>
+					</h2>
+					
+				</div>
+				<div class="box-main">
+					
+					<div style="display: none;" class="alert-template"></div>
+					
+
+					<div class="publish-form">
+						<div class="steps-item">
+							<div class="title">
+								<em>1</em>职位基本信息
+							</div>
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>职位名称：</label>
+								<div class="controls">
+									
+									<div class="valid-row relative">
+										<input class="text span7" name="ejob_title" maxlength="70" placeholder="如：人力资源总监" validate-title="职位名称" validate-rules="[['required','请填写$'],['reallength',{'max':140},'$1长度不能大于70个字'],['repeat',{'max':5},'请准确填写您的$1信息'],['not',{'type':['email','mobile']},'请勿在$里填写手机号码、QQ、MSN等联系方式']]" type="text"><ul class="control-list" data-selector="keywordlist" style="display: none;"></ul>
+										<span class="help-inline">注：职位发布后职位名称不可以修改</span>
+									</div>
+									
+								</div>
+							</div>
+
+							<div class="control-group work-area" data-selector="work-area">
+								<label class="control-label"><span class="help-required">*</span>工作地址：</label>
+								<div class="controls">
+									<div class="valid-row clearfix">
+										<input style="display: none;" data-ui="LocalDataUIC" class="text span5 float-left" name="ejob_dq" placeholder="请选择省/市/区" data-selector="city" data-status="true" validate-title="工作地址所在地" validate-rules="[['required','请填写$']]" type="text"><span style="font-size: 12px; width: 216px; height: 20px;" class="span5 float-left LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="ejob_dq"><i style="line-height: 24px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; margin-top: -3px;" class="placeholder">请选择省/市/区</i><span style="left: 6px; height: 20px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 20px; line-height: 20px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; padding-top: 4px; margin-top: -4px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 30px; margin-top: -1px;" data-nick="city" class="drop"></em></span> <input disabled="disabled" data-valid="" id="suggestId" data-selector="address" name="ejob_address" class="address float-left text disabled" placeholder="请填写街道、楼宇详细地址" validate-title="工作地址详细信息" validate-rules="" maxlength="100" type="text">
+										<div id="searchResultPanel" style="border: 1px solid #C0C0C0; width: 150px; height: auto; display: none;"></div>
+									</div>
+									<p class="help-inline">注：1.职位发布后省/市/区不可以修改。2.填写街道、楼宇详细地址，有利于职位曝光。</p>
+									<div class="map" data-selector="map">
+										<input name="ejob_coordinate" data-selector="coordinate" value="" type="hidden">
+										<div id="allmap"></div>
+										<p class="text-center">
+											<a href="javascript:;" class="btn btn-primary" data-selector="map-ok">确定</a>
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>职能分类：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<input style="display: none;" data-ui="LocalDataUIC" class="text span7" name="ejob_jobtitle" data-selector="jobs" validate-title="职能分类" validate-rules="[['required','请选择$']]" type="text"><span style="font-size: 12px; width: 330px; height: 20px;" class="span7 LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="ejob_jobtitle"><i style="line-height: 24px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; margin-top: -3px;" class="placeholder"></i><span style="left: 6px; width: 308px; height: 20px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 20px; line-height: 20px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; padding-top: 4px; margin-top: -4px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 30px; margin-top: -1px;" data-nick="job" class="drop"></em></span>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group" id="dept">
+								<label class="control-label"><span class="help-required">*</span>所属部门：</label>
+								<div class="controls valid-row clearfix">
+									<div class="selectui" data-size="12" data-dock="true">
+										<div style="width: 15.5em;" class="selectui-head">
+											<input name="detail_dept_id" data-selector="dept" validate-title="所属部门" validate-rules="[['required','请选择$']]" value=" " autocomplete="off" data-ui="SelectUI" type="hidden">
+											<div class="selectui-result">请选择</div>
+											<div data-name="detail_dept_id" class="selectui-drop"></div>
+										</div>
+										<ul style="right: 0px;">
+											
+											<li data-value="1301539" title="开发部"><a href="javascript:;">开发部</a></li>
+											
+
+										</ul>
+									</div>
+
+									<button data-selector="btn-f" type="button" class="btn btn-medium btn-primary">部门管理</button>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>职位月薪：</label>
+								
+								<div class="controls valid-row">
+									<div class="span span7">
+										<input class="text input-small" size="4" name="ejob_monthlysalary_low" maxlength="3" data-selector="ejob_monthlysalary_low" validate-title="职位月薪" validate-rules="[['required','请填写$'],['number'],['dyncheck','Salary']]" type="text">&nbsp;<span class="text-warning">千元</span>&nbsp;至&nbsp; <input class="text input-small" size="4" name="ejob_monthlysalary_high" maxlength="3" data-selector="ejob_monthlysalary_high" validate-title="职位月薪" validate-rules="[['required','请填写$'],['number'],['dyncheck','Salary']]" type="text">&nbsp;<span class="text-warning">千元</span> <label><input autocomplete="off" style="display: none;" class="checkbox" name="ejob_salarydiscuss_par" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="ejob_salarydiscuss_par"></i>显示为面议</label>
+										
+
+										<span class="help-inline">月薪上限为10k以下的职位，不能勾选“显示为面议”</span>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>发放月数：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<input class="text span1" name="ejob_salary_month" value="12" maxlength="2" validate-title="发放月数" validate-rules="[['required','请填写$'],['number',{'min':12}]]" type="text"> 个月
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>职位描述：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<textarea class="span span10" rows="5" name="detail_duty_qualify" validate-title="职位描述" validate-rules="[['required','请填写$'],['length',{'max':10000,'min':30}]]"></textarea>
+										<p class="text-warning" style="clear: both;">注：职位描述中请勿填写涉及性别歧视的内容，例如：女性优先，只招男士等</p>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>职位亮点：</label>
+								<div class="controls valid-row">
+									<input data-valid="true" name="detail_tag_json" validate-title="职位亮点" validate-rules="['required','请填写$']" data-selector="tag-list-hide" value="[&quot;发展空间大&quot;,&quot;领导好&quot;,&quot;上市公司&quot;,&quot;生育补贴&quot;]" type="hidden">
+									
+									<span class="muted add-tag-tip" style="display: none">增加职位亮点可以吸引求职者快速应聘职位，<a href="javascript:;" data-selector="oprator-tag">立即增加职位亮点</a></span>
+									<article class="tag-list clearfix">
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										<span class="tag" title="发展空间大">发展空间大</span><span class="tag" title="领导好">领导好</span><span class="tag" title="上市公司">上市公司</span><span class="tag" title="生育补贴">生育补贴</span><a href="javascript:;" data-selector="oprator-tag" class="edit-tag">编辑</a>
+									</article>
+									
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">汇报对象：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<input class="text span3" name="detail_report2" maxlength="32" validate-title="汇报对象" validate-rules="[['length',{'max':32,'min':0},'$1长度不能$2$3个字'],['pattern','[\u4e00-\u9fa5a-zA-Z]','$请输入中文或英文字母']]" type="text">
+									</div>
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">下属人数：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<input class="text span3" name="detail_subordinate" maxlength="4" validate-title="下属人数" validate-rules="[['number',{'min':0}]]" type="text">
+									</div>
+								</div>
+							</div>
+
+						</div>
+						<div class="hr"></div>
+						<div class="steps-item">
+							<div class="title">
+								<em>2</em>职位要求
+							</div>
+							<div class="sub-title">
+								<em>基本要求</em><label class="help-required"><input autocomplete="off" style="display: none;" class="checkbox" name="ejob_filterapplyflag_par" value="1" type="checkbox"><i style="margin: 0px 5px 0px 0px;" class="checkboxui" data-name="ejob_filterapplyflag_par"></i>只允许完全符合以下条件人选投递</label>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">工作年限：</label>
+								
+								<div class="controls">
+									<div class="valid-row">
+										<input class="text input-small" size="4" name="detail_workyears" maxlength="2" validate-title="工作年限" validate-rules="[['number',{'min':0}]]" type="text">&nbsp;年以上
+									</div>
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">语言要求：</label>
+								<div class="controls">
+									<div class="valid-row" validate-group="checkbox">
+										<label><input autocomplete="off" style="display: none;" class="checkbox" name="detail_language_english" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="detail_language_english"></i>英语</label> <label><input autocomplete="off" style="display: none;" class="checkbox" name="detail_language_japanese" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="detail_language_japanese"></i>日语</label> <label><input autocomplete="off" style="display: none;" class="checkbox" name="detail_language_french" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="detail_language_french"></i>法语</label> <label><input autocomplete="off" style="display: none;" class="checkbox" name="detail_language_putong" checked="checked" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui checkboxui-checked" data-name="detail_language_putong"></i>普通话</label> <label><input autocomplete="off" style="display: none;" class="checkbox" name="detail_language_yueyu" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="detail_language_yueyu"></i>粤语</label> <label><input autocomplete="off" style="display: none;" data-selector="check-others" class="checkbox" name="detail_language_other" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="detail_language_other"></i>其他</label>
+										<input style="visibility: hidden;" class="text input-small span2" name="detail_language_content" maxlength="40" data-selector="field-others" validate-title="语言要求" validate-rules="[['dynrule','Others']]" type="text">
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">专业要求：</label>
+								<div class="controls">
+									<div class="valid-row">
+										<input class="text span3" name="detail_special" value="不限" validate-title="专业要求" validate-rules="[['length',{'max':32}]]" type="text">
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">期望人选所在行业：</label>
+								<div class="controls">
+									<div class="valid-row">
+										
+										<input style="display: none;" data-ui="LocalDataUIC" class="text input-medium span7" name="detail_industrys" data-selector="industry" maxlength="50" placeholder="请选择行业" type="text"><span style="font-size: 12px; width: 367px; height: 20px;" class="input-medium span7 LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="detail_industrys"><i style="line-height: 24px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; margin-top: -3px;" class="placeholder">请选择行业</i><span style="left: 6px; width: 345px; height: 20px;" class="items"></span><input style="width: 0px; text-indent: 0px; height: 20px; line-height: 20px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; padding-top: 4px; margin-top: -4px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 30px; margin-top: -1px;" data-nick="industry" class="drop"></em></span>
+										
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">学历要求：</label>
+								<div class="controls">
+									<div class="span span4">
+										<div class="selectui" data-size="4" data-selector="edulevelui" data-dock="true">
+											<div style="width: 7.5em;" class="selectui-head">
+												<input data-ui="SelectUI" autocomplete="off" value="000" name="detail_edulevel" data-selector="edulevel" validate-title="学历要求" validate-rules="[['required','请选择$']]" type="hidden">
+												<div class="selectui-result">不限</div>
+												<div data-name="detail_edulevel" class="selectui-drop"></div>
+											</div>
+											<ul style="right: 0px;"><li class="active" data-selected="selected" data-value="000"><a href="javascript:;">不限</a></li><li data-value="005"><a href="javascript:;">博士后</a></li><li data-value="010"><a href="javascript:;">博士</a></li><li data-value="020"><a href="javascript:;">MBA/EMBA</a></li><li data-value="030"><a href="javascript:;">硕士</a></li><li data-value="040"><a href="javascript:;">本科</a></li><li data-value="050"><a href="javascript:;">大专</a></li><li data-value="060"><a href="javascript:;">中专</a></li><li data-value="070"><a href="javascript:;">中技</a></li><li data-value="080"><a href="javascript:;">高中</a></li><li data-value="090"><a href="javascript:;">初中</a></li></ul>
+										</div>
+										&nbsp;&nbsp;及以上
+									</div>
+									<div class="span span5">
+										是否全日制统招： <label><input autocomplete="off" style="display: none;" class="radio" name="detail_edulevel_tz_par" value="1" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui" data-name="detail_edulevel_tz_par"></i>是</label>
+										<label><input autocomplete="off" style="display: none;" class="radio" name="detail_edulevel_tz_par" value="0" checked="checked" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui radioui-checked" data-name="detail_edulevel_tz_par"></i>不限</label>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">年龄要求：</label>
+								
+								<div class="controls">
+									<div class="valid-row">
+										<div class="selectui" data-selector="age" data-dock="true">
+											<div style="width: 76px;" class="selectui-head">
+												<input data-ui="SelectUI" autocomplete="off" name="detail_agelow" value="" data-selector="age-low" validate-title="年龄" validate-rules="[['dyncheck','Age']]" type="hidden">
+												<div class="selectui-result">请选择</div>
+												<div data-name="detail_agelow" class="selectui-drop"></div>
+											</div>
+											<ul style="right: 0px;"><li class="active" data-selected="selected" data-value=""><a href="javascript:;">请选择</a></li><li data-value="20"><a href="javascript:;">20</a></li><li data-value="25"><a href="javascript:;">25</a></li><li data-value="30"><a href="javascript:;">30</a></li><li data-value="35"><a href="javascript:;">35</a></li><li data-value="40"><a href="javascript:;">40</a></li><li data-value="45"><a href="javascript:;">45</a></li><li data-value="50"><a href="javascript:;">50</a></li><li data-value="55"><a href="javascript:;">55</a></li><li data-value="60"><a href="javascript:;">60</a></li><li data-value="65"><a href="javascript:;">65</a></li></ul>
+										</div>
+										&nbsp;至&nbsp;
+										<div class="selectui" data-selector="age" data-dock="true">
+											<div style="width: 76px;" class="selectui-head">
+												<input data-ui="SelectUI" autocomplete="off" name="detail_agehigh" value="" data-selector="age-high" validate-title="年龄" validate-rules="[['dyncheck','Age']]" type="hidden">
+												<div class="selectui-result">请选择</div>
+												<div data-name="detail_agehigh" class="selectui-drop"></div>
+											</div>
+											<ul style="right: 0px;"><li class="active" data-selected="selected" data-value=""><a href="javascript:;">请选择</a></li><li data-value="20"><a href="javascript:;">20</a></li><li data-value="25"><a href="javascript:;">25</a></li><li data-value="30"><a href="javascript:;">30</a></li><li data-value="35"><a href="javascript:;">35</a></li><li data-value="40"><a href="javascript:;">40</a></li><li data-value="45"><a href="javascript:;">45</a></li><li data-value="50"><a href="javascript:;">50</a></li><li data-value="55"><a href="javascript:;">55</a></li><li data-value="60"><a href="javascript:;">60</a></li><li data-value="65"><a href="javascript:;">65</a></li></ul>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label class="control-label">性别要求：</label>
+								<div class="controls">
+									<div>
+										<label><input autocomplete="off" style="display: none;" class="radio" name="detail_sex_par" value="" checked="checked" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui radioui-checked" data-name="detail_sex_par"></i>不限</label> <label><input autocomplete="off" style="display: none;" class="radio" name="detail_sex_par" value="男" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui" data-name="detail_sex_par"></i>男</label> <label><input autocomplete="off" style="display: none;" class="radio" name="detail_sex_par" value="女" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui" data-name="detail_sex_par"></i>女</label>&nbsp;&nbsp;&nbsp;&nbsp;<span class="text-warning">注：该条件不公开展示，但会根据要求为您推荐或筛选简历</span>
+									</div>
+								</div>
+							</div>
+
+						</div>
+						<div class="hr"></div>
+						<div class="steps-item">
+							<div class="title">
+								<em>3</em>其他信息
+							</div>
+							<div class="control-group">
+								<label class="control-label">应聘简历发送至：</label>
+								<div class="controls email-list">
+									
+									<ul data-cityid="0" data-name="">
+										<li class="valid-row"><input style="display: none;" data-ui="LocalDataUIC" value="415645415@qq.com" class="text span5" name="ejob_dq_mails" type="text"><span style="font-size: 12px; width: 322px; height: 20px;" class="span5 LocalDataUIC simulation-text LocalDataUIC-simulation-text" data-name="ejob_dq_mails"><i style="line-height: 24px; padding-left: 1px; text-indent: 0px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; margin-top: -3px; display: none;" class="placeholder"></i><span style="left: 6px; width: 300px; height: 20px;" class="items"><span data-id="415645415@qq.com">415645415@qq.com<a style="top: 2px;" class="close"></a></span></span><input style="width: 0px; text-indent: 0px; height: 20px; line-height: 20px; font-size: 12px; font-family: Tahoma,&quot;宋体&quot;,Arial,Helvetica,Arial,sans-serif; padding-top: 4px; margin-top: -4px;" class="LocalDataUIC-input" readonly unselectable="on" type="text"><em style="height: 30px; margin-top: -1px;" data-nick="" class="drop"></em></span></li>
+									</ul>
+									
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label">自动回复应聘者：</label>
+								<div class="controls auto-back-email">
+									<label><input autocomplete="off" style="display: none;" class="radio" name="lea_is_autoreply_flag" value="1" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui" data-name="lea_is_autoreply_flag"></i>是</label> <label><input autocomplete="off" style="display: none;" class="radio" name="lea_is_autoreply_flag" checked="checked" value="0" type="radio"><i style="margin: 10px 5px 10px 0px;" class="radioui radioui-checked" data-name="lea_is_autoreply_flag"></i>否</label> <br> <label><input autocomplete="off" style="display: none;" data-selector="publish-private" class="checkbox" name="ejob_privacyreq_par" value="1" type="checkbox"><i style="margin: 10px 5px 10px 0px;" class="checkboxui" data-name="ejob_privacyreq_par"></i>发布为保密职位（保密职位不会公开，仅对您的招聘服务顾问开放，招聘顾问会帮您推荐适合人选！）</label>
+								</div>
+							</div>
+							<div class="control-group autoback-view" data-selector="autoBackView">
+								<label class="control-label"></label>
+								<div class="controls">
+									<article class="email-content-view">
+										<ul>
+											<li class="clearfix"><span>邮件主题：</span><cite data-selector="emailName"></cite></li>
+											<li class="clearfix"><span>邮件内容：</span><cite data-selector="emailContent"></cite></li>
+										</ul>
+										<a href="javascript:;" class="modify text-info"><i class="icon-16 icon-edit3"></i>修改</a>
+									</article>
+								</div>
+							</div>
+							<div class="control-group autoback-set" data-selector="autoBackSet">
+								<label class="control-label"></label>
+								<div class="controls">
+									<section class="form-auto-back">
+										<h5>设置投递简历自动回复</h5>
+										<div class="edit-contents">
+											<input class="hide" name="lea_title" type="text">
+											<textarea name="lea_content" class="hide"></textarea>
+											<ul>
+												<li class="clearfix"><span>邮件主题：</span><cite><input class="text span10" data-selector="editEmailTitle" name="" type="text"></cite></li>
+												<li class="clearfix"><span>邮件内容：</span><cite><textarea data-selector="editEmailContent" class="span10"></textarea></cite></li>
+												<li class="clearfix"><span> </span><cite><input class="btn btn-primary" data-selector="save" value="保存" type="button">&nbsp;&nbsp;<cite class="text-warning hide">wrong!</cite></cite></li>
+											</ul>
+										</div>
+									</section>
+								</div>
+							</div>
+							<div class="control-group">
+								<label class="control-label"><span class="help-required">*</span>应聘反馈时长：</label>
+								<div class="controls">
+									<div class="valid-row relative">
+										<input data-selector="scale" validate-rules="[['required','请填写$'],['dyncheck','scale'],['number']]" maxlength="2" validate-title="应聘反馈时长" name="feedback_period" class="text span3" placeholder="请填写1-10的数字" data-valid="false" type="text">&nbsp;个工作日 （请填写您一般给应聘人选反馈结果需要的时间）
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="form-actions">
+							
+							
+							<button data-selector="btn-publish" type="button" class="btn btn-large btn-primary" disabled="disabled">发布职位</button>
+							<button data-selector="btn-draft" type="button" class="btn btn-large btn-light" disabled="disabled">保存为草稿职位</button>
+							
+							
+							<button data-selector="btn-template" type="button" class="btn btn-large btn-light" disabled="disabled">保存职位模板</button>
+							
+						</div>
+						<br>
+						<div class=" alert text-center alert-no-close clearfix">
+							<i class="icon-16 icon-warning2"></i> <span>提示：对于发布虚假招聘信息的企业及账号，猎聘网有权进行永久封号处理，造成猎聘网损失的，需对猎聘网进行赔偿；同时，猎聘网保留诉讼的权利。</span>
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<!--  -->
+<footer id="footer-beta2">
+  <div class="wrap">
+    <hr>
+    <div class="copyright">
+      <div class="copy-side">
+        <i class="icons16 icons16-bottom-phone"></i>服务热线：400-6838-789 或 010-56905000
+      </div>
+      <div class="copy-main">
+        <p><a href="https://www.liepin.com/about/introduction.shtml" target="blank">猎聘网简介</a>|<a href="https://www.liepin.com/inshr/index.shtml" target="blank">加入猎聘网</a>|<a href="https://www.liepin.com/about/innovation.shtml" target="blank">创新优势</a>|<a href="https://www.liepin.com/user/agreement.shtml" target="blank">用户协议</a>|<a href="https://www.liepin.com/about/mediareports.shtml" target="blank">媒体报道</a>|<a href="https://www.liepin.com/about/about_us.shtml" target="blank">联系我们</a>|<a href="https://www.liepin.com/sitemap.shtml" target="blank">网站地图</a>|<a href="https://www.liepin.com/cooperation.shtml" target="blank">网站合作</a>|<a href="https://www.liepin.com/user/feedback/" target="blank">意见反馈</a>|<a href="https://www.liepin.com/" target="blank">猎聘网</a></p>
+        <p>京ICP备09083200号 京ICP证070419号 人才服务许可证:RC0710280 京公网安备11010502026763</p>
+        <p>Copyright©2000-2016 liepin.com All Rights Reserved</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+	
+</body></html>

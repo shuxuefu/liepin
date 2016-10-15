@@ -1,0 +1,32 @@
+package com.liepin.liepin.dao.impl;
+
+import com.liepin.liepin.dao.MemberInfoDao;
+import com.liepin.liepin.pojo.MemberInfo;
+
+public class MemberInfoDaoImpl implements MemberInfoDao {
+
+	@Override
+	public MemberInfo get(Integer id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void save(MemberInfo entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(MemberInfo entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(MemberInfo entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

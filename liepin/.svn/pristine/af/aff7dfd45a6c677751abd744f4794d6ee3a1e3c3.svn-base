@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<!-- 设置过滤字符 -->
+	<constant name="truts.i18n.encoding" value="UTF-8"></constant>
+	<!-- 设置自动刷新 -->
+	<constant name="struts.configuration.xml.reload" value="true"></constant>
+	<!-- 设置动态方法 -->
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"></constant>
+	<package name="default" namespace="/" extends="struts-default">
+		<!-- 公共配置 -->
+		<global-results>
+			<result name="error" >error.jsp</result>
+		</global-results>
+		<!-- method默认值为execute -->
+		<!-- <action name="login" method="execute" class="com.bdqn.struts.action.Login"> -->
+		
+		<!-- 注册 -->
+		<action name="doReg" class="com.liepin.action.UserReg">
+			<result name="success" type="redirect">mainlogin.jsp</result>
+		</action>
+		
+		<!-- 登陆 -->
+		<action name="doLogin" class="com.liepin.action.Login" >
+			<result name="inputInfo">/vip/newInfo.jsp</result>
+			<result name="inputProfile">/vip/newProfile.jsp</result>
+			<result name="success">/vip/vipwriteCV.jsp</result>
+			<result name="error">/errorpage/loginerror.jsp</result>			
+		</action>	
+		<action name="index" class="com.bdqn.struts.action.Index">
+			<result name="success" >success.jsp</result>
+			<result name="error">error.jsp</result>
+		</action>
+	</package>
+</struts>    
